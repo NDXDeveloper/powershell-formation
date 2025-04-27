@@ -1,4 +1,3 @@
-[Les enums](I-bases/09-enums.md)
 ## 🧠 Formation PowerShell – Du Débutant à l'Expert
 
 ### 🟦 [Module 1 – Introduction à PowerShell](00-introduction/README.md)
