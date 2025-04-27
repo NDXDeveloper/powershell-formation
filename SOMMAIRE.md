@@ -11,11 +11,11 @@
 
 ### 🟦 [Module 2 – Environnement de travail et personnalisation](01-environnement/README.md)
 
-2-1. [Fichier de profil (`$PROFILE`)](01-environnement/01-profil.md)
-2-2. [Customisation du prompt (oh-my-posh, PSReadLine)](01-environnement/02-customisation-prompt.md)
-2-3. [Historique de commandes et raccourcis clavier](01-environnement/03-historique-et-raccourcis.md)
-2-4. [Modules utiles (PSReadLine, posh-git, Terminal-Icons, etc.)](01-environnement/04-modules-utiles.md)
-2-5. [Découverte de la PowerShell Gallery](01-environnement/05-powershell-gallery.md)
+- 2-1. [Fichier de profil (`$PROFILE`)](01-environnement/01-profil.md)
+- 2-2. [Customisation du prompt (oh-my-posh, PSReadLine)](01-environnement/02-customisation-prompt.md)
+- 2-3. [Historique de commandes et raccourcis clavier](01-environnement/03-historique-et-raccourcis.md)
+- 2-4. [Modules utiles (PSReadLine, posh-git, Terminal-Icons, etc.)](01-environnement/04-modules-utiles.md)
+- 2-5. [Découverte de la PowerShell Gallery](01-environnement/05-powershell-gallery.md)
 
 ### 🟦 [Module 3 – Syntaxe et fondamentaux](02-syntaxe-fondamentaux/README.md)
 
