@@ -8,6 +8,7 @@
 - 1-4. [Installation (Windows, Linux, macOS)](00-introduction/04-installation.md)
 - 1-5. [Découverte de la console PowerShell et VS Code](00-introduction/05-interface-console-vscode.md)
 - 1-6. [Utilisation de l'aide intégrée (`Get-Help`, `Get-Command`, `Get-Member`)](00-introduction/06-utilisation-aide-integree.md)
+- [Exercices](00-introduction/exercices)
 
 ### 🟦 [Module 2 – Environnement de travail et personnalisation](01-environnement/README.md)
 
@@ -16,6 +17,7 @@
 - 2-3. [Historique de commandes et raccourcis clavier](01-environnement/03-historique-et-raccourcis.md)
 - 2-4. [Modules utiles (PSReadLine, posh-git, Terminal-Icons, etc.)](01-environnement/04-modules-utiles.md)
 - 2-5. [Découverte de la PowerShell Gallery](01-environnement/05-powershell-gallery.md)
+- [Exercices](01-environnement/exercices)
 
 ### 🟦 [Module 3 – Syntaxe et fondamentaux](02-syntaxe-fondamentaux/README.md)
 
@@ -25,6 +27,7 @@
 - 3-4. [Structures de contrôle (`if`, `switch`, `for`, `foreach`, `while`)](02-syntaxe-fondamentaux/04-structures-controle.md)
 - 3-5. [Expressions régulières et filtrage](02-syntaxe-fondamentaux/05-regex-filtrage.md)
 - 3-6. [Scripting : premiers scripts `.ps1`](02-syntaxe-fondamentaux/06-premiers-scripts.md)
+- [Exercices](02-syntaxe-fondamentaux/exercices)
 
 ### 🟦 [Module 4 – Objets et traitement de données](03-objets-donnees/README.md)
 
@@ -33,6 +36,7 @@
 - 4-3. [Création d'objets personnalisés (`[PSCustomObject]`)](03-objets-donnees/03-objets-custom.md)
 - 4-4. [Groupement, agrégation (`Group-Object`, `Measure-Object`)](03-objets-donnees/04-groupement-aggregation.md)
 - 4-5. [Export de données (CSV, JSON, XML)](03-objets-donnees/05-export-donnees.md)
+- [Exercices](03-objets-donnees/exercices)
 
 ### 🟦 [Module 5 – Gestion des fichiers et du système](04-systeme-fichiers/README.md)
 
@@ -41,6 +45,7 @@
 - 5-3. [Gestion des permissions NTFS](04-systeme-fichiers/03-droits-ntfs.md)
 - 5-4. [Compression, archivage et extraction](04-systeme-fichiers/04-compression-archivage.md)
 - 5-5. [Dates et temps (`Get-Date`, manipulation des TimeSpan)](04-systeme-fichiers/05-gestion-dates.md)
+- [Outils](04-systeme-fichiers/outils)
 
 ### 🟦 [Module 6 – Fonctions, modules et structuration](05-fonctions-modules/README.md)
 
@@ -49,6 +54,7 @@
 - 6-3. [Scripts, modules (`.ps1`, `.psm1`), manifestes](05-fonctions-modules/03-modules-et-manifestes.md)
 - 6-4. [Portée des variables et scopes](05-fonctions-modules/04-portee.md)
 - 6-5. [Meilleures pratiques de structuration et nommage](05-fonctions-modules/05-bonnes-pratiques.md)
+- [Exercices](05-fonctions-modules/exercices)
 
 ### 🟦 [Module 7 – Gestion des erreurs et debug](06-erreurs-debug/README.md)
 
@@ -65,6 +71,7 @@
 - 8-3. [Planification via le Planificateur de tâches Windows](07-jobs-taches/03-planification.md)
 - 8-4. [Création de services de fond en PowerShell](07-jobs-taches/04-services-fond.md)
 - 8-5. [Monitoring de scripts longue durée](07-jobs-taches/05-monitoring.md)
+- [Exercices](07-jobs-taches/exercices)
 
 ### 🟦 [Module 9 – Administration Windows](08-administration-windows/README.md)
 
@@ -73,6 +80,7 @@
 - 9-3. [Gestion des disques, partitions, volumes](08-administration-windows/03-disques-volumes.md)
 - 9-4. [Interrogation du matériel (RAM, CPU, etc.)](08-administration-windows/04-hardware-info.md)
 - 9-5. [Gestion des utilisateurs et groupes locaux](08-administration-windows/05-utilisateurs-locaux.md)
+- [Exercices](08-administration-windows/exercices)
 
 ### 🟦 [Module 10 – Active Directory & LDAP](09-active-directory/README.md)
 
@@ -81,6 +89,7 @@
 - 10-3. [Création, modification, suppression d'objets AD](09-active-directory/03-gestion-utilisateurs-groupes.md)
 - 10-4. [Utilisation de filtres LDAP](09-active-directory/04-filtres-ldap.md)
 - 10-5. [Audit de l'environnement AD (dernière connexion, comptes inactifs)](09-active-directory/05-audit-ad.md)
+- [Exercices](09-active-directory/exercices)
 
 ### 🟦 [Module 11 – Réseau & Sécurité](10-reseau-securite/README.md)
 
@@ -89,6 +98,7 @@
 - 11-3. [Firewall, pare-feu, et règles Windows Defender](10-reseau-securite/03-firewall-defender.md)
 - 11-4. [Gestion des certificats](10-reseau-securite/04-certificats.md)
 - 11-5. [Sécurité des scripts : droits, exécution, sessions à privilèges](10-reseau-securite/05-securite-scripts.md)
+- [Exercices](10-reseau-securite/exercices)
 
 ### 🟦 [Module 12 – API, Web & Cloud](11-api-cloud/README.md)
 
@@ -97,6 +107,7 @@
 - 12-3. [Consommer une API REST, envoyer du JSON](11-api-cloud/03-consommer-api.md)
 - 12-4. [Appels vers GitHub, Azure, Teams, etc.](11-api-cloud/04-api-externes.md)
 - 12-5. [Introduction à PowerShell + Azure / AWS / Google Cloud](11-api-cloud/05-cloud-intro.md)
+- [Exercices](11-api-cloud/exercices)
 
 ### 🟦 [Module 13 – Tests, CI/CD et DevOps](12-ci-cd-tests/README.md)
 
@@ -105,6 +116,7 @@
 - 13-3. [Scripts dans les pipelines (Azure DevOps, GitHub Actions)](12-ci-cd-tests/03-azure-devops.md)
 - 13-4. [Linting et validation automatique](12-ci-cd-tests/04-linting.md)
 - 13-5. [Publication de modules (PSGallery)](12-ci-cd-tests/05-publishing-modules.md)
+- [Exercices](12-ci-cd-tests/exercices)
 
 ### 🟦 [Module 14 – Performance et optimisation](13-optimisation/README.md)
 
@@ -113,6 +125,7 @@
 - 14-3. [Techniques d'optimisation (filtrage natif, évitement de WMI)](13-optimisation/03-techniques.md)
 - 14-4. [Éviter les ralentissements courants](13-optimisation/04-ralentissements.md)
 - 14-5. [Chargement conditionnel de modules](13-optimisation/05-chargement-conditionnel.md)
+- [Exercices](13-optimisation/exercices)
 
 ### 🟦 [Module 15 – Architecture & design de scripts pro](14-architecture/README.md)
 
@@ -121,6 +134,7 @@
 - 15-3. [Gestion de la configuration externe (JSON, ENV, INI)](14-architecture/03-configuration-externe.md)
 - 15-4. [Structuration modulaire avancée](14-architecture/04-structure-modulaire.md)
 - 15-5. [Documentation de scripts et fonctions (`.SYNOPSIS`, `.EXAMPLE`, etc.)](14-architecture/05-documentation-scripts.md)
+- [Exercices](14-architecture/exercices)
 
 ### 🟨 [Module 16 – Annexes et bonus](annexes/README.md)
 
