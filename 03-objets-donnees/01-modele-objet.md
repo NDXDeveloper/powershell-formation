@@ -1,6 +1,8 @@
 # Module 4 - Objets et traitement de données
 ## 4-1. Le modèle objet PowerShell
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ### 📘 Introduction
 
 Contrairement aux shells traditionnels comme CMD ou Bash qui manipulent principalement du texte, PowerShell manipule des **objets**. Cette différence fondamentale est ce qui rend PowerShell si puissant.

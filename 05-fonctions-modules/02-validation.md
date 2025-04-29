@@ -1,6 +1,8 @@
 # Module 6 : Fonctions, modules et structuration
 ## 6-2. Validation des paramètres (`[ValidateNotNullOrEmpty]`, etc.)
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 La validation des paramètres est une étape cruciale pour créer des fonctions robustes et fiables. Elle permet de s'assurer que les données reçues par votre fonction sont valides avant de commencer le traitement. PowerShell offre plusieurs attributs de validation intégrés qui vous évitent d'écrire du code de vérification manuel.
 
 ### Pourquoi valider les paramètres ?

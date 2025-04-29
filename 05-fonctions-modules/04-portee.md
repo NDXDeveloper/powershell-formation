@@ -1,6 +1,8 @@
 # Module 6 : Fonctions, modules et structuration
 ## 6-4. Portée des variables et scopes
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 La portée des variables (ou "scope" en anglais) est un concept fondamental en PowerShell qui détermine où une variable est accessible et pendant combien de temps elle existe. Comprendre les scopes vous aidera à éviter des erreurs courantes et à structurer vos scripts de manière plus efficace.
 
 ### Qu'est-ce qu'un scope ?

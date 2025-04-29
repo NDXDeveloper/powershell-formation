@@ -1,6 +1,6 @@
-Je vais vous fournir les solutions pour les trois exercices pratiques de la section 6-5 sur les meilleures pratiques de structuration et nommage.
-
 ### Solutions des exercices pratiques
+
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
 
 #### 1. Exercice de base : Amélioration d'un script existant
 

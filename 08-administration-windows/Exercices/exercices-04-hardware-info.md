@@ -1,5 +1,7 @@
 # Solutions des exercices - Module 9-4: Interrogation du matériel
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Exercice 1 : Informations basiques
 
 ### Énoncé

@@ -1,6 +1,8 @@
 # Module 8 - Jobs, tâches planifiées et parallélisme
 ## 8-3. Planification via le Planificateur de tâches Windows
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ### Introduction à la planification de tâches
 
 Jusqu'à présent, nous avons vu comment exécuter des tâches PowerShell en arrière-plan avec les Jobs et comment paralléliser des opérations. Mais que faire si vous souhaitez qu'un script s'exécute **automatiquement** à un moment précis, ou selon un intervalle régulier, même lorsque vous n'êtes pas devant votre ordinateur?

@@ -1,4 +1,7 @@
 # Solutions aux exercices - Module 8-4
+
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Création de services de fond en PowerShell
 
 Voici les solutions détaillées pour les trois exercices proposés dans le module 8-4 concernant la création de services de fond en PowerShell.

@@ -1,5 +1,7 @@
 # Module 3 - Section 3-6 : Scripting : premiers scripts `.ps1`
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## 📝 Introduction aux scripts PowerShell
 
 Jusqu'à présent, nous avons exécuté des commandes PowerShell directement dans la console. Cependant, pour automatiser des tâches complexes ou réutiliser facilement du code, nous avons besoin de **scripts**. Un script PowerShell est simplement un fichier texte avec l'extension `.ps1` qui contient une série d'instructions PowerShell.

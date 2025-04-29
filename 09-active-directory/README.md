@@ -1,5 +1,7 @@
 # Module 10 - Active Directory & LDAP
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## 🔍 Vue d'ensemble
 
 Bienvenue dans le dixième module de notre formation PowerShell ! Après avoir exploré l'administration Windows locale, nous allons maintenant nous étendre à l'échelle de l'entreprise en découvrant comment PowerShell permet d'administrer efficacement Active Directory et d'utiliser le protocole LDAP pour interagir avec des annuaires.

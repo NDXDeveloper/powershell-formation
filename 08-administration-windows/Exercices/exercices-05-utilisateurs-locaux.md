@@ -1,4 +1,7 @@
 # Solutions des exercices pratiques - Module 9-5
+
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Gestion des utilisateurs et groupes locaux avec PowerShell
 
 ### Exercice 1: Créer 5 utilisateurs avec mots de passe aléatoires et les ajouter à un groupe

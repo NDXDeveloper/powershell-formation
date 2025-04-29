@@ -1,4 +1,7 @@
 # Solutions aux exercices - Module 8-2
+
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Runspaces & ForEach-Object -Parallel (PowerShell 7+)
 
 Dans cette section, nous allons explorer plusieurs solutions à l'exercice proposé dans le module 8-2, qui consistait à :

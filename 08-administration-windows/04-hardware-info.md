@@ -1,5 +1,7 @@
 # Module 9-4. Interrogation du matériel (RAM, CPU, etc.)
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Introduction
 
 L'un des grands avantages de PowerShell est sa capacité à récupérer des informations détaillées sur le matériel de votre ordinateur. Ces informations peuvent être précieuses pour le dépannage, la surveillance des performances ou simplement pour connaître les spécifications de votre système.

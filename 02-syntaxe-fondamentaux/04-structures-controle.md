@@ -1,5 +1,7 @@
 # Module 3 - Section 3-4 : Structures de contrôle (`if`, `switch`, `for`, `foreach`, `while`)
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## 🔄 Introduction aux structures de contrôle
 
 Les structures de contrôle sont essentielles dans tout langage de programmation. Elles vous permettent de :

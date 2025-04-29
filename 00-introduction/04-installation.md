@@ -1,5 +1,7 @@
 # Module 1-4: Installation (Windows, Linux, macOS)
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Installation de PowerShell sur différentes plateformes
 
 Une des grandes forces de PowerShell moderne est sa disponibilité sur plusieurs systèmes d'exploitation. Ce guide vous expliquera comment installer PowerShell sur Windows, Linux et macOS de façon simple et accessible.

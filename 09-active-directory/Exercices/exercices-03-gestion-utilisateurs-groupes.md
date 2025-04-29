@@ -1,5 +1,7 @@
 # Solutions des exercices pratiques - Gestion des objets AD
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Rappel des exercices
 1. Créez un utilisateur nommé "Pierre Martin" dans l'OU "Stagiaires"
 2. Ajoutez cet utilisateur au groupe "Lecteurs PDF"

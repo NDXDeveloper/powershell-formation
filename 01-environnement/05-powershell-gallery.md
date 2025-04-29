@@ -1,5 +1,7 @@
 # Module 2-5: Découverte de la PowerShell Gallery
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## La bibliothèque d'extensions pour PowerShell
 
 Imaginez un immense magasin d'applications, comme le Google Play Store ou l'App Store, mais entièrement dédié à PowerShell. Un endroit où vous pouvez trouver des milliers d'outils, fonctions et modules créés par Microsoft et la communauté pour résoudre pratiquement tous les problèmes imaginables. C'est exactement ce qu'est la **PowerShell Gallery**!

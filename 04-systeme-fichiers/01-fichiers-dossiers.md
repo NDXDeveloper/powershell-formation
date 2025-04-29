@@ -1,6 +1,8 @@
 # Module 5 - Gestion des fichiers et du système
 ## 5-1. Fichiers, dossiers, chemins (`Get-Item`, `Get-ChildItem`, etc.)
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ### 📘 Introduction
 
 La gestion des fichiers et dossiers est une tâche fondamentale pour tout administrateur système ou développeur. PowerShell offre des outils puissants pour naviguer, explorer et manipuler le système de fichiers de manière efficace et intuitive.

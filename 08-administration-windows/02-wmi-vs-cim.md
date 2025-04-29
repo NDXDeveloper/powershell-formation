@@ -1,5 +1,7 @@
 # 9-2. WMI vs CIM (`Get-CimInstance`, `Invoke-CimMethod`)
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Introduction
 
 Dans cette section, nous allons explorer deux technologies essentielles pour l'administration système sous Windows : WMI (Windows Management Instrumentation) et CIM (Common Information Model). Ces outils vous permettent d'obtenir des informations détaillées sur votre système et d'effectuer des opérations d'administration à distance.

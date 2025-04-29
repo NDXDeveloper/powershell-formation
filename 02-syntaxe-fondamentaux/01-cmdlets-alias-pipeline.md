@@ -1,5 +1,7 @@
 # Module 3-1: Cmdlets, alias et pipeline
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Les briques fondamentales de PowerShell
 
 Bienvenue dans ce premier chapitre du Module 3 sur la syntaxe et les fondamentaux de PowerShell. Nous allons explorer trois concepts essentiels qui forment le cœur de PowerShell: les cmdlets, les alias et le pipeline. Comprendre ces éléments est la clé pour maîtriser PowerShell.

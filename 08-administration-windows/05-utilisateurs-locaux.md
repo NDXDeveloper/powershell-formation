@@ -1,5 +1,7 @@
 # Module 9-5: Gestion des utilisateurs et groupes locaux avec PowerShell
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Introduction
 
 La gestion des utilisateurs et des groupes locaux est une tâche administrative courante que PowerShell peut grandement simplifier. Dans cette section, nous allons découvrir comment PowerShell vous permet de créer, modifier, supprimer et interroger les comptes utilisateurs et les groupes sur une machine locale.

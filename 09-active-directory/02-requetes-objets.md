@@ -1,5 +1,7 @@
 # Module 10-2 : Requêtes sur les utilisateurs, groupes et ordinateurs dans Active Directory
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## 📚 Introduction
 
 Dans ce module, nous allons explorer comment utiliser PowerShell pour interroger Active Directory et récupérer des informations sur les utilisateurs, les groupes et les ordinateurs. Active Directory (AD) est un service d'annuaire utilisé dans les environnements Windows pour centraliser la gestion des utilisateurs, des ordinateurs et d'autres ressources réseau.

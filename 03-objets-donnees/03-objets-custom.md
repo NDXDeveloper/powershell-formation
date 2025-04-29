@@ -1,6 +1,8 @@
 # Module 4 - Objets et traitement de données
 ## 4-3. Création d'objets personnalisés (`[PSCustomObject]`)
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ### 📘 Introduction
 
 Jusqu'à présent, nous avons appris à manipuler des objets créés par PowerShell. Mais que faire si vous souhaitez créer vos propres objets avec exactement les propriétés dont vous avez besoin? C'est là qu'intervient `[PSCustomObject]`!

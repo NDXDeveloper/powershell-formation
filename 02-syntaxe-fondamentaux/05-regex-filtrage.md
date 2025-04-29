@@ -1,5 +1,7 @@
 # Module 3 - Section 3-5 : Expressions régulières et filtrage
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## 🔍 Introduction aux expressions régulières
 
 Les expressions régulières (ou "regex") sont des motifs de recherche puissants qui vous permettent de trouver, valider et manipuler du texte selon des règles précises. Bien que leur syntaxe puisse paraître complexe au premier abord, elles sont incroyablement utiles pour automatiser des tâches de traitement de texte.

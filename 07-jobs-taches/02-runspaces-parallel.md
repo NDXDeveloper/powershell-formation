@@ -1,6 +1,8 @@
 # Module 8 - Jobs, tâches planifiées et parallélisme
 ## 8-2. Runspaces & ForEach-Object -Parallel (PowerShell 7+)
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ### Introduction au parallélisme avancé dans PowerShell
 
 Dans la section précédente, nous avons découvert les **Jobs** PowerShell qui permettent d'exécuter des tâches en arrière-plan. Dans cette section, nous allons explorer deux méthodes plus avancées pour exécuter des tâches en parallèle, disponibles dans PowerShell 7 et versions ultérieures :

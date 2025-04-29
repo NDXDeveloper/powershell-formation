@@ -1,5 +1,7 @@
 # Module 2-2: Customisation du prompt (oh-my-posh, PSReadLine)
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Transformez l'apparence de votre PowerShell
 
 Lorsque vous utilisez PowerShell, le **prompt** est cette partie de l'interface qui s'affiche avant que vous ne tapiez une commande — généralement `PS C:\Users\VotreNom>`. C'est un peu comme l'accueil de votre maison PowerShell!

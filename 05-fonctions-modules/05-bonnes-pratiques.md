@@ -1,6 +1,8 @@
 # Module 6 : Fonctions, modules et structuration
 ## 6-5. Meilleures pratiques de structuration et nommage
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 Écrire du code PowerShell qui fonctionne est une chose, mais écrire du code qui est facile à comprendre, à maintenir et à partager en est une autre. Dans cette section, nous allons explorer les meilleures pratiques qui vous aideront à structurer vos scripts et modules de manière professionnelle.
 
 ### Pourquoi suivre des bonnes pratiques ?

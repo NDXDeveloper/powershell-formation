@@ -1,6 +1,8 @@
 # Module 5 - Gestion des fichiers et du système
 ## 5-2. Lecture/écriture de fichiers (TXT, CSV, JSON, XML)
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ### 📘 Introduction
 
 La lecture et l'écriture de fichiers sont des opérations fondamentales dans tout script PowerShell. Qu'il s'agisse de journaux, de données structurées ou de configurations, PowerShell offre des outils intuitifs pour manipuler différents formats de fichiers.

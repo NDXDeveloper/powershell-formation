@@ -1,6 +1,8 @@
 # Module 10 - Active Directory & LDAP
 ## 10-5. Audit de l'environnement AD (dernière connexion, comptes inactifs)
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 L'audit de votre environnement Active Directory est une tâche essentielle pour maintenir la sécurité et l'efficacité de votre infrastructure. PowerShell offre des outils puissants pour identifier les comptes inactifs, vérifier les dernières connexions, et générer des rapports détaillés. Dans cette section, nous allons explorer les commandes et techniques pour auditer efficacement votre AD.
 
 ### Pourquoi auditer votre Active Directory ?

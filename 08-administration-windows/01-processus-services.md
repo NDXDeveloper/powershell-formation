@@ -1,6 +1,8 @@
 # Module 9 - Administration Windows
 ## 9-1. Services, processus, registre, événements
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 L'administration Windows avec PowerShell vous permet de gérer facilement les composants essentiels du système d'exploitation. Dans cette section, nous allons explorer comment manipuler les services, processus, registre et événements - des éléments fondamentaux pour tout administrateur système.
 
 ### 📋 Services Windows

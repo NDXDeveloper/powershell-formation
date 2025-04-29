@@ -1,4 +1,7 @@
 # Solutions aux exercices - Module 8-3
+
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Planification via le Planificateur de tâches Windows
 
 Voici les solutions détaillées aux exercices proposés dans le module 8-3 concernant la planification de tâches PowerShell.

@@ -1,5 +1,7 @@
 # Module 1 - Introduction à PowerShell
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## 🔍 Vue d'ensemble
 
 Bienvenue dans le premier module de cette formation PowerShell ! Ce module constitue votre porte d'entrée dans l'univers de PowerShell, un langage de script et shell de commande moderne développé par Microsoft.

@@ -2,6 +2,8 @@
 
 ## 7-3. Débogage avec VS Code (`Set-PSBreakpoint`, etc.)
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 Le débogage est une compétence essentielle pour tout développeur de scripts. Lorsque votre code ne fonctionne pas comme prévu, les outils de débogage vous aident à comprendre ce qui se passe réellement et à trouver les erreurs. Dans cette section, nous allons explorer le débogage de scripts PowerShell, à la fois avec les commandes natives et avec Visual Studio Code.
 
 ### Pourquoi utiliser le débogage ?

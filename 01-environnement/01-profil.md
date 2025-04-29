@@ -1,5 +1,7 @@
 # Module 2-1: Fichier de profil ($PROFILE)
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Personnalisez votre environnement PowerShell
 
 Imaginez que chaque fois que vous ouvrez PowerShell, vous souhaiteriez avoir:

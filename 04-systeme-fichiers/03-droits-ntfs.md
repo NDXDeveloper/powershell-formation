@@ -1,6 +1,8 @@
 # Module 5 - Gestion des fichiers et du système
 ## 5-3. Gestion des permissions NTFS
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ### 📘 Introduction
 
 La gestion des permissions NTFS est une compétence essentielle pour tout administrateur système Windows. Avec PowerShell, vous pouvez automatiser ces tâches répétitives et potentiellement fastidieuses. Dans cette section, nous verrons comment visualiser, comprendre et modifier les permissions NTFS des fichiers et dossiers.

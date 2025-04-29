@@ -1,6 +1,8 @@
 # Module 8 - Jobs, tâches planifiées et parallélisme
 ## 8-1. Jobs (`Start-Job`, `Receive-Job`, `Remove-Job`)
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ### Introduction aux Jobs PowerShell
 
 Les **Jobs** dans PowerShell sont un moyen d'exécuter des commandes ou des scripts en arrière-plan, sans bloquer votre console. C'est particulièrement utile lorsque vous devez:

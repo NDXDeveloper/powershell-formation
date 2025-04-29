@@ -1,5 +1,7 @@
 # Module 3 - Section 3-2 : Variables, typage, tableaux, hashtables
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## 📝 Variables et typage dans PowerShell
 
 ### Introduction aux variables

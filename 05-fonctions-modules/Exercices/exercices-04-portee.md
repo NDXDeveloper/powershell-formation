@@ -1,5 +1,7 @@
 ### Solutions des exercices pratiques
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 #### 1. Exercice de base : Variables avec différentes portées
 
 ```powershell

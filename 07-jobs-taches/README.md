@@ -1,5 +1,7 @@
 # Module 8 - Jobs, tâches planifiées et parallélisme
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## 🔍 Vue d'ensemble
 
 Bienvenue dans le huitième module de notre formation PowerShell ! Après avoir maîtrisé la gestion des erreurs et le débogage, nous allons maintenant explorer comment exécuter des tâches en arrière-plan, automatiser l'exécution de scripts à des moments précis, et tirer parti des capacités de traitement parallèle de PowerShell.

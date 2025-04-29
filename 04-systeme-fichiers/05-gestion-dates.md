@@ -1,6 +1,8 @@
 # Module 5 - Gestion des fichiers et du système
 ## 5-5. Dates et temps (`Get-Date`, manipulation des TimeSpan)
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ### 📘 Introduction
 
 La manipulation des dates et des temps est essentielle dans de nombreux scripts PowerShell : création de noms de fichiers avec horodatage, calcul d'âge de fichiers, planification de tâches, ou génération de rapports. PowerShell offre des outils puissants pour travailler avec les dates et durées, rendant ces opérations beaucoup plus simples qu'en ligne de commande traditionnelle.

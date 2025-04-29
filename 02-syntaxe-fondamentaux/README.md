@@ -1,5 +1,7 @@
 # Module 3 - Syntaxe et fondamentaux
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## 🔍 Vue d'ensemble
 
 Bienvenue dans le troisième module de notre formation PowerShell ! Après avoir découvert PowerShell et personnalisé votre environnement de travail, il est maintenant temps d'approfondir la syntaxe et les éléments fondamentaux du langage.

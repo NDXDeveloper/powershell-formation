@@ -1,5 +1,7 @@
 # Module 4 - Objets et traitement de données
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## 🔍 Vue d'ensemble
 
 Bienvenue dans le quatrième module de notre formation PowerShell ! Après avoir acquis les bases de la syntaxe et des fondamentaux, nous allons maintenant explorer l'un des aspects les plus puissants de PowerShell : son modèle orienté objet et ses capacités avancées de traitement de données.

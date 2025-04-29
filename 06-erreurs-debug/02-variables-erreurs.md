@@ -2,6 +2,8 @@
 
 ## 7-2. `$?`, `$LASTEXITCODE`, `$ErrorActionPreference`
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 Après avoir exploré les structures `try/catch/finally`, nous allons maintenant découvrir trois variables spéciales qui sont essentielles pour la gestion des erreurs en PowerShell. Ces variables vous aideront à vérifier si une commande s'est bien exécutée et à personnaliser la manière dont PowerShell réagit aux erreurs.
 
 ### La variable `$?` - Succès ou échec

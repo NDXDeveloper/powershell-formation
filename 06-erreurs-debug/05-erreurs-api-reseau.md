@@ -2,6 +2,8 @@
 
 ## 7-5. Gestion des exceptions réseau, fichiers, API
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 Lorsque vos scripts PowerShell interagissent avec des ressources externes comme les fichiers, les réseaux ou les API web, vous devez vous préparer à gérer différents types d'erreurs spécifiques. Dans cette section, nous allons explorer comment identifier et gérer efficacement ces exceptions pour créer des scripts robustes.
 
 ### Pourquoi les exceptions externes sont-elles particulières ?

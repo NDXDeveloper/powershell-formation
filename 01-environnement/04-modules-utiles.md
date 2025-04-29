@@ -1,5 +1,7 @@
 # Module 2-4: Modules utiles (PSReadLine, posh-git, Terminal-Icons, etc.)
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Améliorez votre PowerShell avec des modules complémentaires
 
 Imaginez que vous puissiez transformer votre PowerShell d'une simple ligne de commande à un environnement avancé avec:

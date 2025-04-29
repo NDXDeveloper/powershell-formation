@@ -2,6 +2,8 @@
 
 ## 1.1 Qu'est-ce que PowerShell ?
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ### Introduction
 
 PowerShell est un **environnement d'automatisation et de scripting** développé par Microsoft. Il combine les capacités d'un langage de script avec les fonctionnalités d'une interface en ligne de commande (CLI).

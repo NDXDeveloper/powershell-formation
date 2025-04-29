@@ -1,5 +1,7 @@
 # Module 6 - Fonctions, modules et structuration
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## 🔍 Vue d'ensemble
 
 Bienvenue dans le sixième module de notre formation PowerShell ! Après avoir exploré la gestion des fichiers et du système, nous allons maintenant nous concentrer sur un aspect essentiel pour passer au niveau supérieur en PowerShell : la création de code réutilisable et bien structuré.

@@ -1,6 +1,8 @@
 # Module 1 - Introduction à PowerShell
 ## 1-2. PowerShell vs Bash / CMD / VBScript
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 Bienvenue dans cette section où nous allons comparer PowerShell avec d'autres interfaces en ligne de commande et langages de script ! Cette comparaison vous aidera à comprendre ce qui rend PowerShell spécial et pourquoi il vaut la peine d'être appris, même si vous connaissez déjà d'autres outils.
 
 ### 📊 Tableau comparatif rapide

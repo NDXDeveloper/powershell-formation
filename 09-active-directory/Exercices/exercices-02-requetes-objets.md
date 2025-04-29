@@ -1,5 +1,7 @@
 # Solution de l'exercice 1 : Liste des utilisateurs d'un département
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 <#
 .SYNOPSIS
     Liste tous les utilisateurs d'un département spécifique.

@@ -1,5 +1,7 @@
 # Module 3 - Section 3-3 : Opérateurs (logiques, arithmétiques, comparaison)
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## 🧮 Opérateurs dans PowerShell
 
 Les opérateurs sont des symboles ou des mots-clés qui vous permettent d'effectuer des actions comme des calculs, des comparaisons ou des opérations logiques. PowerShell propose différents types d'opérateurs qui vont vous aider à manipuler vos données.

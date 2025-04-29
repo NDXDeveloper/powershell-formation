@@ -1,6 +1,8 @@
 # Module 8 - Jobs, tâches planifiées et parallélisme
 ## 8-4. Création de services de fond en PowerShell
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ### Introduction aux services de fond
 
 Vous avez déjà appris à exécuter des tâches en arrière-plan avec les Jobs PowerShell et à planifier l'exécution automatique de scripts avec le Planificateur de tâches Windows. Mais que faire lorsque vous avez besoin d'un programme qui s'exécute en permanence, surveille continuellement un système, et démarre automatiquement avec Windows ?

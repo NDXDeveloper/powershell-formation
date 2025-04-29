@@ -1,6 +1,8 @@
 # Module 10 - Active Directory & LDAP
 ## 10-1. Module RSAT et importation (`Import-Module ActiveDirectory`)
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ### Introduction
 
 L'administration Active Directory (AD) est l'une des tâches les plus courantes pour les administrateurs systèmes Windows. PowerShell facilite considérablement cette tâche grâce à des modules dédiés. Dans cette section, nous allons découvrir comment installer les outils nécessaires et comment importer le module Active Directory pour commencer à travailler avec votre annuaire.

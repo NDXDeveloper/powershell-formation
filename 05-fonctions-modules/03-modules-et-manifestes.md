@@ -1,6 +1,8 @@
 # Module 6 : Fonctions, modules et structuration
 ## 6-3. Scripts, modules (`.ps1`, `.psm1`), manifestes
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 Après avoir appris à créer des fonctions avec des paramètres validés, il est temps d'organiser votre code PowerShell de manière professionnelle. Dans cette section, nous allons explorer les différentes façons de structurer votre code pour le rendre réutilisable, maintenable et partageable.
 
 ### Les scripts PowerShell (`.ps1`)

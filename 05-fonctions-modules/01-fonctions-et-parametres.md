@@ -1,6 +1,8 @@
 # Module 6 : Fonctions, modules et structuration
 ## 6-1. Création de fonctions et paramètres
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 Les fonctions sont un élément fondamental de PowerShell qui vous permettent de réutiliser du code, d'organiser votre travail et d'éviter les répétitions. Elles sont comme des "mini-scripts" que vous pouvez appeler n'importe quand.
 
 ### Pourquoi utiliser des fonctions ?

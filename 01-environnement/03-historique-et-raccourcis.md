@@ -1,5 +1,7 @@
 # Module 2-3: Historique de commandes et raccourcis clavier
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Travailler efficacement dans PowerShell
 
 Imaginez que vous venez d'exécuter une longue commande complexe et que vous avez besoin de la relancer avec une légère modification. Ou que vous vous souvenez d'avoir exécuté une commande parfaite la semaine dernière, mais vous ne vous rappelez plus exactement comment vous l'aviez formulée.

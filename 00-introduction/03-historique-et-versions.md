@@ -1,5 +1,7 @@
 # Module 1-3: Historique et versions (Windows PowerShell, PowerShell 7+)
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## L'évolution de PowerShell au fil du temps
 
 PowerShell a connu une évolution remarquable depuis sa création, passant d'un simple outil Windows à un environnement multi-plateforme puissant. Comprendre cette évolution vous aidera à mieux appréhender les différentes versions que vous pourriez rencontrer.

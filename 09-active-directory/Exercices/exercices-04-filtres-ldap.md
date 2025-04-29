@@ -1,5 +1,7 @@
 # Solutions des exercices et challenges - Utilisation des filtres LDAP
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Solutions des exercices pratiques
 
 ### Exercice 1

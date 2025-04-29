@@ -2,6 +2,8 @@
 
 ## 7-4. Journaux d'exécution (`Start-Transcript`)
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 Imaginez que vous exécutiez un script PowerShell important et que vous vouliez garder une trace de tout ce qui s'est passé pendant son exécution : les commandes, les résultats, les erreurs... C'est exactement ce que permettent les journaux d'exécution avec la commande `Start-Transcript` !
 
 ### Qu'est-ce qu'un journal d'exécution (transcript) ?

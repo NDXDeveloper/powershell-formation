@@ -1,6 +1,8 @@
 # Module 4 - Objets et traitement de données
 ## 4-2. Manipulation des objets (`Select-Object`, `Where-Object`, `Sort-Object`)
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ### 📘 Introduction
 
 Maintenant que vous comprenez ce qu'est un objet PowerShell, découvrons comment manipuler ces objets! PowerShell offre plusieurs cmdlets puissantes qui vous permettent de filtrer, trier et sélectionner les données exactement comme vous le souhaitez.

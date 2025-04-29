@@ -1,6 +1,6 @@
-Voici les solutions détaillées pour les exercices pratiques du tutoriel sur WMI vs CIM :
-
 ## Solutions des exercices pratiques
+
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
 
 ### 1. Exercice débutant : Afficher les informations de base du système
 
@@ -91,7 +91,7 @@ foreach ($service in $servicesArretes) {
 }
 ```
 
-Cette solution avancée :
+Cette solution  :
 1. Identifie d'abord les services arrêtés configurés en démarrage automatique
 2. Les affiche pour information
 3. Tente de démarrer chaque service un par un

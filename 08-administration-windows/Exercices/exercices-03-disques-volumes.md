@@ -1,5 +1,7 @@
 # Solutions des exercices - Module 9-3 : Gestion des disques, partitions, volumes
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Exercice 1 : Lister tous les disques et identifier leur type de partition
 
 ### Solution :

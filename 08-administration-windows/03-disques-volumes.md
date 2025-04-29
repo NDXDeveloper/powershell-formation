@@ -1,5 +1,7 @@
 # Module 9-3 : Gestion des disques, partitions, volumes
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Introduction
 
 La gestion des disques est une tâche courante pour les administrateurs système. PowerShell offre un ensemble complet de cmdlets qui vous permettent de gérer facilement vos disques, partitions et volumes sans avoir à utiliser l'interface graphique de Windows. Ce chapitre vous guidera à travers les commandes essentielles pour gérer vos ressources de stockage.

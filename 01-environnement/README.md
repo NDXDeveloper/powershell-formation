@@ -1,5 +1,7 @@
 # Module 2 - Environnement de travail et personnalisation
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## 🔍 Vue d'ensemble
 
 Bienvenue dans le deuxième module de notre formation PowerShell ! Après avoir exploré les bases de PowerShell dans le Module 1, nous allons maintenant nous concentrer sur la configuration d'un environnement de travail productif et personnalisé.

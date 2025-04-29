@@ -1,6 +1,8 @@
 # Module 4 - Objets et traitement de données
 ## 4-5. Export de données (CSV, JSON, XML)
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ### 📘 Introduction
 
 Une fois que vous avez collecté, manipulé et analysé vos données dans PowerShell, l'étape suivante consiste souvent à les exporter dans un format que d'autres applications peuvent comprendre. PowerShell facilite grandement cette tâche grâce à ses cmdlets d'exportation intégrées.

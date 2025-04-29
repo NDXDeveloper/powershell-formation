@@ -1,5 +1,7 @@
 ### Solutions des exercices pratiques
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 #### 1. Exercice de base : Validation d'un numéro de téléphone avec `[ValidatePattern]`
 
 ```powershell

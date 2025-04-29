@@ -2,6 +2,8 @@
 
 ## 7-1. `try/catch/finally`, `throw`, `Write-Error`
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 Dans le monde idéal, nos scripts PowerShell s'exécuteraient toujours parfaitement, mais en réalité, des erreurs peuvent survenir : fichiers introuvables, permissions manquantes, problèmes réseau, etc. La bonne gestion des erreurs est une compétence essentielle pour créer des scripts robustes.
 
 ### Pourquoi gérer les erreurs ?

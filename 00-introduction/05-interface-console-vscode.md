@@ -1,5 +1,7 @@
 # Module 1-5: Découverte de la console PowerShell et VS Code
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Prise en main de l'environnement PowerShell
 
 Maintenant que vous avez installé PowerShell, il est temps de découvrir comment l'utiliser efficacement. Dans ce module, nous explorerons deux façons principales d'interagir avec PowerShell : via la console (terminal) et avec Visual Studio Code (VS Code).

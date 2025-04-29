@@ -1,6 +1,8 @@
 # Module 8 - Jobs, tâches planifiées et parallélisme
 ## 8-5. Monitoring de scripts longue durée
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ### Introduction au monitoring de scripts
 
 Imaginez que vous avez créé un script PowerShell qui doit s'exécuter pendant plusieurs heures, voire plusieurs jours. Comment savoir s'il fonctionne correctement ? Comment être alerté en cas de problème ? Comment suivre sa progression ? C'est là qu'intervient le **monitoring de scripts longue durée**.

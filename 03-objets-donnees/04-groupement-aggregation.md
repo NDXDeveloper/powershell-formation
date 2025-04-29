@@ -1,6 +1,8 @@
 # Module 4 - Objets et traitement de données
 ## 4-4. Groupement, agrégation (`Group-Object`, `Measure-Object`)
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ### 📘 Introduction
 
 Lorsque vous travaillez avec de grandes quantités de données dans PowerShell, il devient essentiel de pouvoir les organiser et les analyser efficacement. C'est là que les cmdlets `Group-Object` et `Measure-Object` entrent en jeu! Ces outils puissants vous aideront à transformer des informations brutes en connaissances utiles.

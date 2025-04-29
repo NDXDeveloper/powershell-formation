@@ -1,6 +1,8 @@
 # Module 10 - Active Directory & LDAP
 ## 10-4. Utilisation de filtres LDAP
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ### 🎯 Objectif
 Apprendre à utiliser les filtres LDAP (Lightweight Directory Access Protocol) pour effectuer des recherches précises et optimisées dans Active Directory.
 

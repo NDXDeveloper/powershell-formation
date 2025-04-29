@@ -1,5 +1,7 @@
 # Module 9 - Administration Windows
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## 🔍 Vue d'ensemble
 
 Bienvenue dans le neuvième module de notre formation PowerShell ! Après avoir exploré les mécanismes d'exécution avancés, nous allons maintenant nous concentrer sur l'une des applications les plus pratiques et puissantes de PowerShell : l'administration des systèmes Windows.

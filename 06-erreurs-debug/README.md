@@ -1,5 +1,7 @@
 # Module 7 - Gestion des erreurs et debug
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## 🔍 Vue d'ensemble
 
 Bienvenue dans le septième module de notre formation PowerShell ! Après avoir appris à structurer votre code de manière professionnelle, nous allons maintenant nous concentrer sur un aspect critique du développement de scripts robustes : la gestion des erreurs et le débogage.

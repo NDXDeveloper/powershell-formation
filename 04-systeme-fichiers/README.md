@@ -1,5 +1,7 @@
 # Module 5 - Gestion des fichiers et du système
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## 🔍 Vue d'ensemble
 
 Bienvenue dans le cinquième module de notre formation PowerShell ! Après avoir exploré le modèle objet et le traitement de données, nous allons maintenant nous concentrer sur l'une des tâches les plus courantes pour un administrateur système : la gestion des fichiers et des composants système.

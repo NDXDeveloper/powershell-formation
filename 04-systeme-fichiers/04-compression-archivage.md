@@ -1,6 +1,8 @@
 # Module 5 - Gestion des fichiers et du système
 ## 5-4. Compression, archivage et extraction
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ### 📘 Introduction
 
 La compression et l'archivage de fichiers sont des tâches courantes pour tout administrateur système ou développeur. Que ce soit pour économiser de l'espace disque, faciliter le transfert de fichiers ou créer des sauvegardes, PowerShell offre plusieurs méthodes pour manipuler des archives. Dans cette section, nous allons découvrir comment compresser, archiver et extraire des fichiers efficacement.
