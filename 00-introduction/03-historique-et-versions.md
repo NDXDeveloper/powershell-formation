@@ -135,3 +135,5 @@ Si elle commence par "6" ou plus, vous utilisez PowerShell Core/7+.
 3. Dans ce cours, nous utiliserons **principalement PowerShell 7+**, mais nous soulignerons les différences importantes avec Windows PowerShell 5.1 quand nécessaire
 
 4. **Conseil** : Si vous débutez aujourd'hui avec PowerShell, privilégiez l'apprentissage de PowerShell 7+, tout en gardant à l'esprit que vous pourriez rencontrer Windows PowerShell 5.1 dans des environnements d'entreprise
+
+⏭️ [Installation (Windows, Linux, macOS)](/00-introduction/04-installation.md)

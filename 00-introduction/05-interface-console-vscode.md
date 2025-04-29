@@ -224,3 +224,5 @@ Vous avez maintenant découvert les deux principaux environnements pour travaill
 Au fur et à mesure que vous progresserez, vous apprendrez à combiner ces deux outils pour tirer le meilleur parti de PowerShell. N'hésitez pas à explorer et expérimenter avec ces environnements !
 
 Dans le prochain module, nous découvrirons comment utiliser l'aide intégrée de PowerShell pour apprendre et maîtriser ses commandes.
+
+⏭️ [Utilisation de l'aide intégrée (`Get-Help`, `Get-Command`, `Get-Member`)](/00-introduction/06-utilisation-aide-integree.md)

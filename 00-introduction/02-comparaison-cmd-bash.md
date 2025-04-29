@@ -112,3 +112,5 @@ $drive = Get-PSDrive C
 Dans le prochain module, nous découvrirons l'histoire de PowerShell et ses différentes versions.
 
 Des questions ? N'hésitez pas à les poser avant d'avancer !
+
+⏭️ [Historique et versions (Windows PowerShell, PowerShell 7+)](/00-introduction/03-historique-et-versions.md)

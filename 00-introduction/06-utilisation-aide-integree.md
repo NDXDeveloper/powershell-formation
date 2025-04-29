@@ -304,3 +304,5 @@ N'hésitez pas à explorer et à expérimenter - c'est la meilleure façon d'app
 6. La convention de nommage Verbe-Nom facilite la découverte de commandes
 
 Dans le prochain module, nous explorerons comment personnaliser votre environnement PowerShell pour le rendre plus efficace et agréable à utiliser!
+
+⏭️ [Module 2 – Environnement de travail et personnalisation](/01-environnement/README.md)

@@ -50,3 +50,5 @@ Chaque section contient des explications théoriques, des exemples pratiques et 
 Commençons notre voyage dans l'univers PowerShell !
 
 ---
+
+⏭️ [Qu'est-ce que PowerShell ?](/00-introduction/01-quest-ce-que-powershell.md)

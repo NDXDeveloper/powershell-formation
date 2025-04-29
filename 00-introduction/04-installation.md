@@ -241,3 +241,5 @@ Write-Host "Date et heure actuelles: $(Get-Date)"
 ---
 
 Dans le prochain module, nous découvrirons l'interface de PowerShell et comment utiliser VS Code avec PowerShell.
+
+⏭️ [Découverte de la console PowerShell et VS Code](/00-introduction/05-interface-console-vscode.md)

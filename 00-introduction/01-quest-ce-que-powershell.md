@@ -72,3 +72,5 @@ Dans les prochaines sections, nous apprendrons comment l'installer, le configure
 ---
 
 💡 **Conseil pour débutants** : Ne vous inquiétez pas si tous ces concepts semblent complexes pour l'instant. PowerShell a été conçu pour être intuitif et nous allons progresser pas à pas dans ce cours.
+
+⏭️ [PowerShell vs Bash / CMD / VBScript](/00-introduction/02-comparaison-cmd-bash.md)
