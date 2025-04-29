@@ -7,7 +7,7 @@
 - 1-3. [Historique et versions (Windows PowerShell, PowerShell 7+)](00-introduction/03-historique-et-versions.md)
 - 1-4. [Installation (Windows, Linux, macOS)](00-introduction/04-installation.md)
 - 1-5. [Découverte de la console PowerShell et VS Code](00-introduction/05-interface-console-vscode.md)
-- 1-6. [Utilisation de l'aide intégrée (`Get-Help`, `Get-Command`, `Get-Member`)](00-introduction/06-utilisation-aide-integrée.md)
+- 1-6. [Utilisation de l'aide intégrée (`Get-Help`, `Get-Command`, `Get-Member`)](00-introduction/06-utilisation-aide-integree.md)
 
 ### 🟦 [Module 2 – Environnement de travail et personnalisation](01-environnement/README.md)
 
