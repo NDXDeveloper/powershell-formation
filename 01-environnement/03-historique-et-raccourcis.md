@@ -261,3 +261,5 @@ Assurez-vous que votre configuration de `HistorySavePath` est correcte et que le
 ---
 
 Dans la prochaine section, nous explorerons les modules PowerShell utiles qui peuvent encore plus améliorer votre productivité!
+
+⏭️ [Modules utiles (PSReadLine, posh-git, Terminal-Icons, etc.)](/01-environnement/04-modules-utiles.md)

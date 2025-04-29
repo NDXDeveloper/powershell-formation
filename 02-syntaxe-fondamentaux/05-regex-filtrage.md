@@ -411,3 +411,5 @@ function Test-StrongPassword {
 ---
 
 Dans le prochain cours, nous découvrirons comment créer vos premiers scripts PowerShell `.ps1`, qui vous permettront d'automatiser des tâches complexes en utilisant toutes les notions que nous avons vues jusqu'à présent.
+
+⏭️ [Scripting : premiers scripts `.ps1`](/02-syntaxe-fondamentaux/06-premiers-scripts.md)

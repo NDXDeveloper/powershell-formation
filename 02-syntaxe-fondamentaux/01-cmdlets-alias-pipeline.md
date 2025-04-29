@@ -320,3 +320,5 @@ Les cmdlets, les alias et le pipeline sont les fondations sur lesquelles repose 
 - Le **pipeline** vous permet de combiner des commandes pour créer des solutions complexes
 
 En maîtrisant ces trois concepts, vous avez franchi le premier pas vers une utilisation efficace de PowerShell. Dans les prochaines sections, nous explorerons les variables, les types de données et les structures de contrôle qui vous permettront d'écrire des scripts plus sophistiqués.
+
+⏭️ [Variables, typage, tableaux, hashtables](/02-syntaxe-fondamentaux/02-variables-et-collections.md)

@@ -512,3 +512,5 @@ Write-Log "Fin de la surveillance."
 ---
 
 Dans le prochain module, nous allons explorer le modèle objet PowerShell et comment manipuler efficacement les objets pour traiter des données complexes.
+
+⏭️ [Module 4 – Objets et traitement de données](/03-objets-donnees/README.md)

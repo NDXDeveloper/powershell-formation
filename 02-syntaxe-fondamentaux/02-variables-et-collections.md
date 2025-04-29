@@ -219,3 +219,5 @@ $fruits -join ", "    # Retourne "Pomme, Kiwi, Orange, Fraise, Mangue"
 ---
 
 Dans le prochain cours, nous aborderons les opérateurs logiques, arithmétiques et de comparaison dans PowerShell.
+
+⏭️ [Opérateurs (logiques, arithmétiques, comparaison)](/02-syntaxe-fondamentaux/03-operateurs.md)

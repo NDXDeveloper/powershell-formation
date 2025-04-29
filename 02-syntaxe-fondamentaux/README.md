@@ -54,3 +54,5 @@ Chaque section comprend des explications théoriques, des exemples concrets et d
 Plongeons maintenant dans la syntaxe et les fondamentaux qui feront de vous un utilisateur PowerShell efficace !
 
 ---
+
+⏭️ [Cmdlets, alias et pipeline](/02-syntaxe-fondamentaux/01-cmdlets-alias-pipeline.md)

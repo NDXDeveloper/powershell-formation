@@ -327,3 +327,5 @@ while ($compteur -le 5) {
 ---
 
 Dans le prochain cours, nous aborderons les structures de contrôle dans PowerShell, comme les conditions `if`, `switch` et les boucles `for`, `foreach` et `while`.
+
+⏭️ [Structures de contrôle (`if`, `switch`, `for`, `foreach`, `while`)](/02-syntaxe-fondamentaux/04-structures-controle.md)

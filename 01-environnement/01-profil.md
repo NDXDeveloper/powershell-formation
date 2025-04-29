@@ -250,3 +250,5 @@ Le fichier de profil est comme votre "chez vous" dans PowerShell. Prenez le temp
 Un profil bien configuré peut transformer votre expérience quotidienne avec PowerShell, en rendant les tâches courantes plus rapides et plus agréables!
 
 Dans la prochaine section, nous verrons comment personnaliser encore plus l'apparence de PowerShell avec des outils comme oh-my-posh et PSReadLine.
+
+⏭️ [Customisation du prompt (oh-my-posh, PSReadLine)](/01-environnement/02-customisation-prompt.md)

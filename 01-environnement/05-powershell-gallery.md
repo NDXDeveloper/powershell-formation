@@ -230,3 +230,5 @@ N'oubliez pas: pourquoi passer des heures à écrire un script complexe quand qu
 ---
 
 Nous avons maintenant terminé le Module 2 sur l'environnement de travail et la personnalisation. Dans le prochain module, nous plongerons dans la syntaxe et les fondamentaux de PowerShell, en commençant par les cmdlets, les alias et le pipeline.
+
+⏭️ [Module 3 – Syntaxe et fondamentaux](/02-syntaxe-fondamentaux/README.md)

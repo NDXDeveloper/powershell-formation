@@ -51,3 +51,5 @@ Chaque section comprend des explications théoriques, des exemples pratiques et 
 Préparons maintenant votre environnement PowerShell pour qu'il devienne un outil puissant, efficace et personnalisé !
 
 ---
+
+⏭️ [Fichier de profil (`$PROFILE`)](/01-environnement/01-profil.md)

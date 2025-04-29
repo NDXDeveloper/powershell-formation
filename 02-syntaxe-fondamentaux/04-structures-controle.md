@@ -440,3 +440,5 @@ $nombreSecret = Get-Random -Minimum 1 -Maximum 101
 ---
 
 Dans le prochain cours, nous aborderons les expressions régulières et le filtrage dans PowerShell, des outils puissants pour manipuler et rechercher du texte.
+
+⏭️ [Expressions régulières et filtrage](/02-syntaxe-fondamentaux/05-regex-filtrage.md)

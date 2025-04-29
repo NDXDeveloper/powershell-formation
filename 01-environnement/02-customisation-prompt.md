@@ -334,3 +334,5 @@ Personnaliser votre prompt PowerShell est une excellente façon de rendre votre 
 N'hésitez pas à expérimenter avec différentes configurations jusqu'à trouver celle qui vous convient le mieux!
 
 Dans le prochain module, nous explorerons comment gérer et utiliser efficacement l'historique des commandes et les raccourcis clavier dans PowerShell.
+
+⏭️ [Historique de commandes et raccourcis clavier](/01-environnement/03-historique-et-raccourcis.md)

@@ -337,3 +337,5 @@ Les modules PowerShell transforment une console basique en un environnement de t
 N'oubliez pas que l'écosystème PowerShell est en constante évolution, avec de nouveaux modules créés régulièrement. Gardez l'œil ouvert pour découvrir des outils qui pourraient vous être utiles dans votre travail quotidien.
 
 Dans le prochain chapitre, nous découvrirons la PowerShell Gallery, le dépôt officiel de modules où vous pourrez explorer des milliers d'extensions pour PowerShell.
+
+⏭️ [Découverte de la PowerShell Gallery](/01-environnement/05-powershell-gallery.md)
