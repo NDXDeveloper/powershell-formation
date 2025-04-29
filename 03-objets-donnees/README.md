@@ -53,3 +53,5 @@ Chaque section combine théorie et pratique, avec de nombreux exemples concrets 
 Préparons-nous à exploiter la puissance du modèle objet PowerShell pour transformer radicalement votre approche de la manipulation de données !
 
 ---
+
+⏭️ [Le modèle objet PowerShell](/03-objets-donnees/01-modele-objet.md)

@@ -352,3 +352,5 @@ function Get-DiskInfo {
 - Testez vos modules dans un nouvel environnement avant de les distribuer
 
 Dans la prochaine section, nous explorerons la portée des variables et les différents niveaux de scope en PowerShell.
+
+⏭️ [Portée des variables et scopes](/05-fonctions-modules/04-portee.md)

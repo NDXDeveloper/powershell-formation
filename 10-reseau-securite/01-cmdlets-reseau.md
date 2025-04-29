@@ -245,3 +245,5 @@ Test-SiteWeb -URL "google.com"
 ---
 
 Dans le prochain chapitre, nous explorerons les techniques de découverte réseau, notamment comment scanner des réseaux, vérifier des ports et effectuer des analyses IP.
+
+⏭️ [Découverte réseau (scan, ports, ping, IP)](/10-reseau-securite/02-decouverte-reseau.md)

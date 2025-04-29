@@ -63,3 +63,5 @@ Chaque section combine théorie et pratique, avec des exemples concrets d'automa
 Préparons-nous à découvrir comment PowerShell peut transformer et optimiser votre approche de l'administration Windows !
 
 ---
+
+⏭️ [Services, processus, registre, événements](/08-administration-windows/01-processus-services.md)

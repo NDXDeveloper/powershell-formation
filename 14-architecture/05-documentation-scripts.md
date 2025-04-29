@@ -230,3 +230,5 @@ Prenez un script ou une fonction que vous avez écrit précédemment et ajoutez-
 ## Conclusion
 
 Une bonne documentation est la marque d'un script PowerShell professionnel. Elle facilite la maintenance, l'utilisation par d'autres personnes et vous fait gagner du temps à long terme. Prenez l'habitude de documenter vos scripts dès le début, et vous remarquerez rapidement les avantages de cette pratique.
+
+⏭️ [Module 16 – Annexes et bonus](/annexes/README.md)

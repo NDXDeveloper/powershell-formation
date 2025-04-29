@@ -255,3 +255,5 @@ Start-Process $usersFile
 - L'exportation en CSV permet de facilement manipuler les données dans Excel
 
 Dans le prochain module, nous verrons comment créer, modifier et supprimer des objets Active Directory.
+
+⏭️ [Création, modification, suppression d'objets AD](/09-active-directory/03-gestion-utilisateurs-groupes.md)

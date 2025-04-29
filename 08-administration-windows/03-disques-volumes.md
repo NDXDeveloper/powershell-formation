@@ -274,3 +274,5 @@ Ces compétences vous permettront d'automatiser la gestion de vos ressources de 
 - Explorez le module `Storage` qui contient toutes ces cmdlets : `Get-Command -Module Storage`
 - Découvrez les cmdlets liées à iSCSI pour la gestion du stockage réseau
 - Apprenez à utiliser les Storage Spaces pour créer des pools de stockage avancés
+
+⏭️ [Interrogation du matériel (RAM, CPU, etc.)](/08-administration-windows/04-hardware-info.md)

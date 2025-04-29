@@ -268,3 +268,5 @@ Diviser -Numerateur 10 -Denominateur 0
 - Utilisez des messages d'erreur clairs et utiles
 
 Dans la prochaine section, nous verrons comment valider les paramètres de façon plus avancée pour rendre vos fonctions encore plus robustes.
+
+⏭️ [Validation des paramètres (`[ValidateNotNullOrEmpty]`, etc.)](/05-fonctions-modules/02-validation.md)

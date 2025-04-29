@@ -157,3 +157,5 @@ Remove-Job -Name "ListeFichiers"
 Les jobs PowerShell vous offrent un moyen puissant d'exécuter des tâches en arrière-plan, permettant d'améliorer considérablement votre productivité en automatisant des processus qui prendraient normalement beaucoup de temps. Maîtriser les jobs est une compétence essentielle pour tout administrateur système ou développeur PowerShell.
 
 Dans le prochain module, nous verrons comment utiliser les Runspaces et la parallélisation avec ForEach-Object -Parallel, des fonctionnalités encore plus puissantes disponibles dans PowerShell 7+.
+
+⏭️ [Runspaces & ForEach-Object -Parallel (PowerShell 7+)](/07-jobs-taches/02-runspaces-parallel.md)

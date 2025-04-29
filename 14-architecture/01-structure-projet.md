@@ -200,6 +200,5 @@ Commencez simple, puis faites évoluer votre structure au fur et à mesure que v
 
 **Exercice pratique** : Prenez un de vos scripts existants et transformez-le en un projet organisé selon la structure présentée ci-dessus. Identifiez quelles parties devraient être des fonctions publiques et lesquelles devraient rester privées.
 
-**⏭️ Prochaine section** : [15-2. Séparation logique (orchestration vs logique métier)]
-
+⏭️ [Séparation logique (orchestration vs logique métier)](/14-architecture/02-orchestration.md)
 

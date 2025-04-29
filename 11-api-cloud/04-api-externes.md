@@ -235,3 +235,5 @@ catch {
 ---
 
 Dans cette section, vous avez appris comment PowerShell peut interagir avec des services populaires comme GitHub, Azure et Teams. Ces compétences sont essentielles pour l'automatisation moderne et vous permettront d'intégrer différents systèmes dans vos workflows.
+
+⏭️ [Introduction à PowerShell + Azure / AWS / Google Cloud](/11-api-cloud/05-cloud-intro.md)

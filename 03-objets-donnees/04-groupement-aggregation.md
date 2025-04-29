@@ -244,3 +244,5 @@ $rapport |
 
 Invoke-Item rapport.html  # Ouvre le rapport dans votre navigateur
 ```
+
+⏭️ [Export de données (CSV, JSON, XML)](/03-objets-donnees/05-export-donnees.md)

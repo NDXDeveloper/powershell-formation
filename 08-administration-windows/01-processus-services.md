@@ -284,3 +284,5 @@ Get-WinEvent -FilterHashtable @{LogName='Security'; ID=4625} -MaxEvents 10
 ---
 
 Dans la prochaine section, nous explorerons comment utiliser WMI et CIM pour une administration Windows encore plus puissante.
+
+⏭️ [WMI vs CIM (`Get-CimInstance`, `Invoke-CimMethod`)](/08-administration-windows/02-wmi-vs-cim.md)

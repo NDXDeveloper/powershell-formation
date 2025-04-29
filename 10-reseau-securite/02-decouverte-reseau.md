@@ -496,3 +496,5 @@ function Start-AuditReseau {
 ---
 
 N'hésitez pas à adapter ces exemples à votre environnement spécifique. La pratique est la clé pour maîtriser ces concepts !
+
+⏭️ [Firewall, pare-feu, et règles Windows Defender](/10-reseau-securite/03-firewall-defender.md)

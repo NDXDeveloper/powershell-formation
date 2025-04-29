@@ -185,3 +185,5 @@ Write-Host "Température: $($meteo.main.temp)°C"
 Write-Host "Conditions: $($meteo.weather[0].description)"
 Write-Host "Humidité: $($meteo.main.humidity)%"
 ```
+
+⏭️ [Consommer une API REST, envoyer du JSON](/11-api-cloud/03-consommer-api.md)

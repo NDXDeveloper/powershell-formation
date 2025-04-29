@@ -154,3 +154,5 @@ Si vous débutez avec PowerShell :
 ---
 
 N'hésitez pas à explorer ces différents outils pour trouver l'environnement qui correspond le mieux à votre façon de travailler avec PowerShell. La combinaison de VS Code pour l'édition de scripts et de Windows Terminal pour l'exécution interactive est aujourd'hui considérée comme la configuration optimale par la plupart des experts PowerShell.
+
+⏭️ [Glossaire PowerShell & liens utiles](/annexes/16-5-glossaire-powershell.md)

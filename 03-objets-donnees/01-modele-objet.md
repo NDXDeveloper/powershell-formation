@@ -109,3 +109,5 @@ Dans les prochaines sections, nous explorerons comment:
 ---
 
 💡 **Astuce de pro**: Utilisez la touche Tab pour l'autocomplétion des propriétés et méthodes! Tapez `$process.` puis appuyez sur Tab pour explorer les options disponibles.
+
+⏭️ [Manipulation des objets (`Select-Object`, `Where-Object`, `Sort-Object`)](/03-objets-donnees/02-manipulation-objets.md)

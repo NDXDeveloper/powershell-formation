@@ -310,3 +310,5 @@ Write-Output "Fichier journal créé : $($log.Chemin)"
 - Évitez la **survalidation** qui rendrait votre fonction trop restrictive
 
 Dans la prochaine section, nous verrons comment organiser vos fonctions en scripts et modules pour une meilleure réutilisation.
+
+⏭️ [Scripts, modules (`.ps1`, `.psm1`), manifestes](/05-fonctions-modules/03-modules-et-manifestes.md)

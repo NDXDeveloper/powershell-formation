@@ -62,3 +62,5 @@ Chaque section combine théorie et pratique, avec des exemples concrets que vous
 Préparons-nous à explorer comment PowerShell peut renforcer votre maîtrise du réseau et de la sécurité de votre infrastructure !
 
 ---
+
+⏭️ [Cmdlets réseau : `Test-Connection`, `Test-NetConnection`, `Resolve-DnsName`](/10-reseau-securite/01-cmdlets-reseau.md)

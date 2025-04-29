@@ -197,3 +197,5 @@ Register-ScheduledTask -TaskName "Audit Active Directory Hebdomadaire" -Action $
 ---
 
 Dans le prochain module, nous explorerons les aspects réseau et sécurité avec PowerShell.
+
+⏭️ [Module 11 – Réseau & Sécurité](/10-reseau-securite/README.md)

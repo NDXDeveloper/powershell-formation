@@ -52,3 +52,5 @@ Chaque section combinera théorie et exercices pratiques, vous permettant de dé
 Préparons-nous à transformer vos scripts en solutions PowerShell professionnelles, modulaires et évolutives !
 
 ---
+
+⏭️ [Création de fonctions et paramètres](/05-fonctions-modules/01-fonctions-et-parametres.md)

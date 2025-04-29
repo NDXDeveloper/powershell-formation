@@ -221,3 +221,5 @@ En pratiquant régulièrement le profilage, vous développerez une intuition pou
 - Explorez le module `ImportExcel` pour créer des graphiques de performance
 - Découvrez l'outil `PSProfiler` pour des analyses plus détaillées
 - Apprenez à utiliser le logging pour garder une trace des performances dans le temps
+
+⏭️ [Pipeline vs Boucles](/13-optimisation/02-pipeline-vs-boucles.md)

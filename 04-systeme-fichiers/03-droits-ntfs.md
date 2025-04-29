@@ -459,3 +459,5 @@ Dans la prochaine section, nous découvrirons comment compresser, archiver et ex
 ---
 
 💡 **Astuce de pro**: Utilisez `-Recurse` avec `Get-ChildItem` pour récupérer tous les fichiers d'un dossier et sous-dossiers, puis passez-les à un pipeline avec `ForEach-Object { Set-Acl ... }` pour appliquer les mêmes permissions à un grand nombre de fichiers en une seule opération.
+
+⏭️ [Compression, archivage et extraction](/04-systeme-fichiers/04-compression-archivage.md)

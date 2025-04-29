@@ -312,3 +312,5 @@ Les journaux d'exécution avec `Start-Transcript` sont un outil simple mais puis
 ---
 
 **Astuce finale** : Utilisez la commande `Get-Help Start-Transcript -Full` pour découvrir toutes les options disponibles et obtenir plus d'exemples d'utilisation.
+
+⏭️ [Gestion des exceptions réseau, fichiers, API](/06-erreurs-debug/05-erreurs-api-reseau.md)

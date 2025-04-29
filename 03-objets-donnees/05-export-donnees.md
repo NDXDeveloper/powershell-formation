@@ -277,3 +277,5 @@ Write-Host "Exports terminés! Fichiers créés sur le Bureau." -ForegroundColor
 ---
 
 💡 **Astuce de pro**: Pour les fichiers destinés à être ouverts avec Excel en français, utilisez toujours le point-virgule (`;`) comme délimiteur CSV et enregistrez avec l'extension `.csv`. Cela évitera les problèmes courants d'affichage dans Excel.
+
+⏭️ [Module 5 – Gestion des fichiers et du système](/04-systeme-fichiers/README.md)

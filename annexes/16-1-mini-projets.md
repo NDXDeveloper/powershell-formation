@@ -1662,3 +1662,5 @@ else {
 
 ---
 
+⏭️ [Modèles de scripts prêts à l'emploi](/annexes/16-2-modeles-scripts.md)
+

@@ -285,3 +285,5 @@ PowerShell offre des outils puissants pour gérer les utilisateurs et groupes lo
 ---
 
 **Astuce** : Pour les environnements d'entreprise avec plusieurs machines, envisagez d'utiliser les cmdlets PowerShell pour Active Directory (Module 10) plutôt que de gérer les utilisateurs locaux machine par machine.
+
+⏭️ [Module 10 – Active Directory & LDAP](/09-active-directory/README.md)

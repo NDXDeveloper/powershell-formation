@@ -118,3 +118,5 @@ Maintenant que vous savez comment importer et accéder au module Active Director
 2. Importez le module Active Directory
 3. Listez 10 utilisateurs de votre domaine avec la commande `Get-ADUser`
 4. Utilisez `Get-Help` pour explorer la commande `Get-ADComputer`
+
+⏭️ [Requêtes sur les utilisateurs, groupes, ordinateurs](/09-active-directory/02-requetes-objets.md)

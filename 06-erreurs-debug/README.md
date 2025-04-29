@@ -55,3 +55,5 @@ Chaque section combinera théorie et pratique, avec des exemples réels illustra
 Préparons-nous à rendre vos scripts PowerShell plus fiables et plus faciles à déboguer !
 
 ---
+
+⏭️ [`try/catch/finally`, `throw`, `Write-Error`](/06-erreurs-debug/01-gestion-erreurs.md)

@@ -63,3 +63,5 @@ Chaque section combine théorie et pratique, avec des exemples concrets que vous
 Préparons-nous à explorer comment PowerShell peut devenir votre outil principal pour l'automatisation multiplateforme dans un monde connecté par des API !
 
 ---
+
+⏭️ [`Invoke-WebRequest` vs `Invoke-RestMethod`](/11-api-cloud/01-webrequest-restmethod.md)

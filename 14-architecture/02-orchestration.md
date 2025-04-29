@@ -359,3 +359,5 @@ Au fur et à mesure que vous progressez:
 La séparation logique entre orchestration et logique métier est une pratique fondamentale dans le développement de scripts PowerShell professionnels. Elle permet d'améliorer la qualité, la maintenance et la réutilisation de votre code. Commencez par des séparations simples et progressez vers des architectures plus avancées au fur et à mesure que vos compétences se développent.
 
 N'oubliez pas: un script bien structuré est un investissement pour l'avenir, tant pour vous que pour ceux qui devront maintenir votre code!
+
+⏭️ [Gestion de la configuration externe (JSON, ENV, INI)](/14-architecture/03-configuration-externe.md)

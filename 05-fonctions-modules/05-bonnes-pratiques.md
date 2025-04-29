@@ -582,3 +582,5 @@ finally {
    - Ne codez jamais d'informations sensibles en dur
 
 Ces bonnes pratiques vous aideront à créer du code PowerShell plus lisible, maintenable et professionnel. Avec le temps, ces pratiques deviendront une seconde nature et amélioreront considérablement la qualité de vos scripts et modules.
+
+⏭️ [Module 7 – Gestion des erreurs et debug](/06-erreurs-debug/README.md)

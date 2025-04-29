@@ -73,3 +73,5 @@ Chaque section combine théorie et pratique, avec des exemples concrets d'intég
 Préparons-nous à transformer votre approche de PowerShell en adoptant les meilleures pratiques du développement logiciel professionnel !
 
 ---
+
+⏭️ [Introduction à Pester (tests unitaires)](/12-ci-cd-tests/01-pester-tests.md)

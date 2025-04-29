@@ -184,3 +184,5 @@ En ne chargeant les modules que lorsqu'ils sont nécessaires, vous rendez vos sc
 ---
 
 **💡 Astuce pour débutants**: Essayez de mesurer la différence de performance en utilisant `Measure-Command` pour comparer un script qui charge tous les modules au début et un autre qui utilise le chargement conditionnel.
+
+⏭️ [Module 15 – Architecture & design de scripts pro](/14-architecture/README.md)

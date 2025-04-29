@@ -439,3 +439,5 @@ Dans le prochain module, nous explorerons la création de fonctions et la struct
 ---
 
 💡 **Astuce de pro**: Standardisez vos formats de date dans tous vos scripts pour éviter les confusions. Le format ISO (`yyyy-MM-dd`) est idéal car il est reconnu internationalement et permet un tri alphabétique correct.
+
+⏭️ [Module 6 – Fonctions, modules et structuration](/05-fonctions-modules/README.md)

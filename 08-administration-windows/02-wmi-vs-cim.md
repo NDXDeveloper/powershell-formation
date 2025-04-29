@@ -221,3 +221,5 @@ Pour les administrateurs système, maîtriser ces outils est essentiel car ils p
 - Utilisez des sessions CIM pour des opérations multiples sur des machines distantes
 - Apprenez à utiliser le paramètre `-Filter` pour des requêtes plus efficaces
 - Explorez les nombreuses classes WMI/CIM pour découvrir toutes les informations système accessibles
+
+⏭️ [Gestion des disques, partitions, volumes](/08-administration-windows/03-disques-volumes.md)

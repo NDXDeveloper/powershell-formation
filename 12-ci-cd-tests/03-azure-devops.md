@@ -288,3 +288,5 @@ jobs:
 - Utilisez des modules comme PSScriptAnalyzer pour garantir la qualité de votre code
 
 Dans le prochain module, nous explorerons comment effectuer des tests unitaires avancés avec Pester pour vos scripts PowerShell.
+
+⏭️ [Linting et validation automatique](/12-ci-cd-tests/04-linting.md)

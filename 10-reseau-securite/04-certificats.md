@@ -207,3 +207,5 @@ PowerShell offre un ensemble complet d'outils pour gérer efficacement les certi
 
 - [Documentation officielle Microsoft sur les cmdlets de certificats](https://docs.microsoft.com/fr-fr/powershell/module/pki)
 - [Comprendre les certificats X.509](https://docs.microsoft.com/fr-fr/windows/win32/seccertenroll/about-x-509-public-key-certificates)
+
+⏭️ [Sécurité des scripts : droits, exécution, sessions à privilèges](/10-reseau-securite/05-securite-scripts.md)

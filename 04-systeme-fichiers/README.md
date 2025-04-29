@@ -54,3 +54,5 @@ Chaque section combine théorie et pratique, avec des exemples concrets adaptés
 Préparons-nous à maîtriser les outils PowerShell qui transformeront votre façon d'interagir avec les fichiers et le système !
 
 ---
+
+⏭️ [Fichiers, dossiers, chemins (`Get-Item`, `Get-ChildItem`, etc.)](/04-systeme-fichiers/01-fichiers-dossiers.md)

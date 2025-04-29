@@ -232,3 +232,5 @@ try {
 ---
 
 N'oubliez pas : La gestion des erreurs peut sembler fastidieuse au début, mais elle rendra vos scripts beaucoup plus robustes et professionnels !
+
+⏭️ [`$?`, `$LASTEXITCODE`, `$ErrorActionPreference`](/06-erreurs-debug/02-variables-erreurs.md)

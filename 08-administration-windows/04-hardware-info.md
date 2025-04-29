@@ -211,3 +211,5 @@ La maîtrise de ces commandes vous permettra de créer des scripts d'audit, des 
 ---
 
 ⭐ **Pour les plus curieux** : Les commandes présentées dans ce module fonctionnent principalement sous Windows. Si vous utilisez PowerShell sur Linux ou macOS, certaines classes WMI ne seront pas disponibles, mais vous pourrez utiliser d'autres commandes système pour obtenir des informations similaires.
+
+⏭️ [Gestion des utilisateurs et groupes locaux](/08-administration-windows/05-utilisateurs-locaux.md)

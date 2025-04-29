@@ -209,3 +209,5 @@ Publish-Module -Path .\MonModule -NuGetApiKey $apiKey -WhatIf
 ---
 
 N'oubliez pas : la publication sur la PSGallery est une excellente façon de contribuer à la communauté PowerShell et de faire connaître votre travail !
+
+⏭️ [Module 14 – Performance et optimisation](/13-optimisation/README.md)

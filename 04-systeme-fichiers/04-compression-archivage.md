@@ -519,3 +519,5 @@ Dans la prochaine section, nous verrons comment manipuler les dates et les duré
 ---
 
 💡 **Astuce de pro**: Pour compresser efficacement de grandes quantités de données, divisez le travail en lots et utilisez `Compress-Archive` avec le paramètre `-CompressionLevel Optimal` pour le meilleur équilibre entre vitesse et taille.
+
+⏭️ [Dates et temps (`Get-Date`, manipulation des TimeSpan)](/04-systeme-fichiers/05-gestion-dates.md)

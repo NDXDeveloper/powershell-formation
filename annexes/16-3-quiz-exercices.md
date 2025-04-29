@@ -2485,3 +2485,5 @@ En appliquant ces principes, vous créerez des scripts PowerShell robustes, effi
 ---
 
 Les quiz et exercices de cette section vous ont permis de mettre en pratique les concepts abordés tout au long de cette formation PowerShell. N'hésitez pas à modifier et adapter ces exercices pour créer vos propres solutions personnalisées. La pratique régulière est la clé pour maîtriser PowerShell !
+
+⏭️ [Outils complémentaires (ISE, VS Code, Terminal Windows)](/annexes/16-4-outils-complementaires.md)

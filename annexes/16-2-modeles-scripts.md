@@ -704,3 +704,5 @@ PowerShell est un outil puissant pour l'automatisation des tâches administrativ
 ---
 
 🔄 **N'oubliez pas** : La pratique est la clé pour maîtriser PowerShell ! Essayez de modifier ces modèles et de les adapter à vos propres besoins.
+
+⏭️ [Quiz et exercices corrigés par niveau](/annexes/16-3-quiz-exercices.md)

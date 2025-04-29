@@ -458,3 +458,5 @@ Points clés à retenir :
 - Protégez les informations sensibles à l'aide du chiffrement
 
 En maîtrisant ces techniques, vous pourrez créer des solutions PowerShell adaptables et évolutives, prêtes à être déployées dans des environnements professionnels.
+
+⏭️ [Structuration modulaire avancée](/14-architecture/04-structure-modulaire.md)

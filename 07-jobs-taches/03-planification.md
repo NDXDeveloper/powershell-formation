@@ -361,3 +361,5 @@ Dans le prochain module, nous verrons comment créer des services PowerShell de 
 2. **Exercice intermédiaire**: Créez un script qui nettoie les fichiers temporaires de votre système, puis planifiez son exécution hebdomadaire.
 
 3. **Exercice avancé**: Créez un script qui vérifie si certains services Windows sont arrêtés et les redémarre si nécessaire. Planifiez l'exécution de ce script toutes les heures.
+
+⏭️ [Création de services de fond en PowerShell](/07-jobs-taches/04-services-fond.md)

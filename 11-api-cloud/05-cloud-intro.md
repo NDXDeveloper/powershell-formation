@@ -218,3 +218,5 @@ $allVMs | Format-Table -AutoSize
 - AWS propose des modules PowerShell bien développés
 - Google Cloud nécessite souvent de combiner PowerShell avec gcloud CLI
 - L'utilisation de PowerShell avec le cloud facilite l'automatisation des tâches récurrentes
+
+⏭️ [Module 13 – Tests, CI/CD et DevOps](/12-ci-cd-tests/README.md)

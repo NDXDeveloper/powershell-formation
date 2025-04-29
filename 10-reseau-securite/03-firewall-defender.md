@@ -248,3 +248,5 @@ N'oubliez pas que la gestion du pare-feu est une tâche critique pour la sécuri
 
 - Documentation Microsoft: [NetSecurity Module](https://docs.microsoft.com/en-us/powershell/module/netsecurity/)
 - Blog Microsoft: [Sécuriser Windows avec PowerShell](https://devblogs.microsoft.com/scripting/)
+
+⏭️ [Gestion des certificats](/10-reseau-securite/04-certificats.md)

@@ -214,3 +214,5 @@ Dans le prochain chapitre, nous verrons comment utiliser ces connaissances pour 
 - [JSONPlaceholder](https://jsonplaceholder.typicode.com/) - API de test gratuite
 - [Postman](https://www.postman.com/) - Outil utile pour tester les API avant de les utiliser dans PowerShell
 
+⏭️ [Appels vers GitHub, Azure, Teams, etc.](/11-api-cloud/04-api-externes.md)
+

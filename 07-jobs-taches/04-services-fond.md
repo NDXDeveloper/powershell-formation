@@ -627,3 +627,5 @@ Dans la prochaine section, nous verrons comment surveiller l'exécution de scrip
 2. **Exercice intermédiaire** : Créez un service qui surveille l'utilisation du CPU et de la mémoire et envoie une alerte (par exemple, en créant un fichier dans un dossier spécifique) si l'utilisation dépasse un certain seuil.
 
 3. **Exercice avancé** : Créez un service qui surveille un dossier partagé réseau, traite les fichiers entrants (par exemple, en compressant des images ou en convertissant des formats), et les déplace vers un dossier de destination.
+
+⏭️ [Monitoring de scripts longue durée](/07-jobs-taches/05-monitoring.md)

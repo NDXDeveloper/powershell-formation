@@ -139,3 +139,5 @@ Créez un script PowerShell qui génère un rapport des utilisateurs créés dan
 ---
 
 Dans le prochain module (10-5), nous aborderons l'audit de l'environnement AD, incluant la détection des comptes inactifs et l'analyse des dernières connexions.
+
+⏭️ [Audit de l'environnement AD (dernière connexion, comptes inactifs)](/09-active-directory/05-audit-ad.md)

@@ -66,3 +66,6 @@ Chaque section combine théorie et pratique, avec des exemples concrets et des e
 Préparons-nous à transformer vos scripts PowerShell en solutions parfaitement optimisées et hautement performantes !
 
 ---
+
+⏭️ [Profilage (`Measure-Command`, Stopwatch)](/13-optimisation/01-profilage.md)
+

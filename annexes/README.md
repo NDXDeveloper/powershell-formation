@@ -62,3 +62,5 @@ Ces annexes constituent une ressource précieuse que vous pourrez consulter rég
 Explorons maintenant ces ressources bonus qui vous aideront à consolider vos compétences et à les mettre en pratique dans des scénarios réels !
 
 ---
+
+⏭️ [Mini-projets (inventaire réseau, backup automatique, API weather, etc.)](/annexes/16-1-mini-projets.md)

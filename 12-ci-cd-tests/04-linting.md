@@ -209,3 +209,5 @@ function Get-Users {
 ---
 
 Dans le prochain module, nous découvrirons comment publier vos modules PowerShell sur la PowerShell Gallery !
+
+⏭️ [Publication de modules (PSGallery)](/12-ci-cd-tests/05-publishing-modules.md)

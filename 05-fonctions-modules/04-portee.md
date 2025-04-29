@@ -309,3 +309,5 @@ Test-Path variable:nom_variable
 - Dans les modules, utilisez `$script:` pour partager des variables entre fonctions
 
 Dans la prochaine section, nous explorerons les meilleures pratiques de structuration et de nommage pour vos scripts et modules PowerShell.
+
+⏭️ [Meilleures pratiques de structuration et nommage](/05-fonctions-modules/05-bonnes-pratiques.md)

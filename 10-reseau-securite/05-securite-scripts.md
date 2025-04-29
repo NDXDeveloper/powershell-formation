@@ -250,3 +250,5 @@ Write-Host "Un journal a été créé à : $env:TEMP\script_log.txt" -Foreground
 ---
 
 Dans le prochain module, nous découvrirons comment utiliser PowerShell avec les API Web et les services cloud.
+
+⏭️ [Module 12 – API, Web & Cloud](/11-api-cloud/README.md)

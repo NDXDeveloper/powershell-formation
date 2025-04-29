@@ -196,3 +196,5 @@ $loopTime = Measure-Command {
 - **Approche hybride** : Souvent la meilleure solution en pratique
 
 L'expérience vous aidera à déterminer quelle approche est la plus adaptée à chaque situation. N'hésitez pas à tester les deux méthodes sur vos données pour voir laquelle est la plus performante dans votre cas spécifique.
+
+⏭️ [Techniques d'optimisation (filtrage natif, évitement de WMI)](/13-optimisation/03-techniques.md)

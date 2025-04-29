@@ -62,3 +62,5 @@ Chaque section combine théorie et pratique, avec des exemples concrets que vous
 Préparons-nous à découvrir comment PowerShell peut révolutionner votre façon d'administrer Active Directory !
 
 ---
+
+⏭️ [Module RSAT et importation (`Import-Module ActiveDirectory`)](/09-active-directory/01-rsat.md)

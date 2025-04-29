@@ -251,3 +251,5 @@ foreach ($server in $servers) {
 ---
 
 Dans le prochain chapitre, nous verrons comment optimiser le chargement de modules pour améliorer encore les performances de vos scripts PowerShell.
+
+⏭️ [Chargement conditionnel de modules](/13-optimisation/05-chargement-conditionnel.md)

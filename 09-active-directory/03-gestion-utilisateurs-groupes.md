@@ -316,3 +316,5 @@ Pour aller plus loin, explorez les cmdlets suivantes :
 3. Modifiez son titre en "Stagiaire Marketing"
 4. Déplacez l'utilisateur vers l'OU "Marketing"
 5. Créez un script qui désactive tous les comptes utilisateurs qui n'ont pas été utilisés depuis plus de 90 jours
+
+⏭️ [Utilisation de filtres LDAP](/09-active-directory/04-filtres-ldap.md)

@@ -888,3 +888,5 @@ Dans les modules suivants, nous explorerons d'autres aspects avancés de PowerSh
 2. **Exercice intermédiaire** : Créez un script qui traite un grand nombre de fichiers (par exemple, renomme des images) avec une barre de progression, des points de contrôle et la possibilité de reprendre après une interruption.
 
 3. **Exercice avancé** : Développez un système de monitoring complet pour un script longue durée qui inclut la journalisation, les heartbeats, la surveillance des ressources, les notifications par email et la génération de rapports graphiques.
+
+⏭️ [Module 9 – Administration Windows](/08-administration-windows/README.md)

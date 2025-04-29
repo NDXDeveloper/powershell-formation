@@ -208,3 +208,5 @@ if ($resultat.FailedCount -gt 0) {
 Créez un script `Calculatrice.ps1` avec des fonctions d'addition, soustraction, multiplication et division, puis écrivez des tests pour chaque fonction, y compris pour les cas spéciaux comme la division par zéro.
 
 Bon test ! 🚀
+
+⏭️ [PowerShell + Git](/12-ci-cd-tests/02-git-integration.md)

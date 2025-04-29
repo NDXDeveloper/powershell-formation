@@ -133,3 +133,5 @@
 ---
 
 *N'oubliez pas : PowerShell est un langage orienté objet où tout est un objet. Comprendre ce concept fondamental vous aidera grandement dans votre apprentissage !*
+
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)

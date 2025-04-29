@@ -401,3 +401,5 @@ Dans la prochaine section, nous verrons comment gérer les permissions NTFS des 
 ---
 
 💡 **Astuce de pro**: Pour manipuler de très gros fichiers texte sans charger tout le contenu en mémoire, utilisez le .NET directement avec `[System.IO.File]::ReadLines()` ou l'option `-ReadCount` de `Get-Content`.
+
+⏭️ [Gestion des permissions NTFS](/04-systeme-fichiers/03-droits-ntfs.md)

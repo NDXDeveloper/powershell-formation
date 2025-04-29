@@ -246,3 +246,5 @@ Dans la prochaine section, nous verrons comment lire et écrire le contenu des f
 ---
 
 💡 **Astuce de pro**: Utilisez `-ErrorAction SilentlyContinue` avec les commandes récursives comme `Get-ChildItem -Recurse` pour éviter que votre écran soit rempli de messages d'erreur "Accès refusé" lorsque vous n'avez pas les droits sur certains dossiers.
+
+⏭️ [Lecture/écriture de fichiers (TXT, CSV, JSON, XML)](/04-systeme-fichiers/02-lecture-ecriture.md)

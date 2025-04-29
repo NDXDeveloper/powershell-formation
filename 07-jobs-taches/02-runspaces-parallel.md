@@ -222,3 +222,5 @@ Essayez de modifier l'exemple précédent pour créer un script qui:
 Le parallélisme avec PowerShell 7+ via `ForEach-Object -Parallel` offre un moyen simple mais puissant d'accélérer vos scripts et de tirer parti des processeurs multi-cœurs modernes. Pour la plupart des besoins quotidiens, cette méthode est largement suffisante. Les Runspaces offrent plus de contrôle mais sont généralement réservés à des scénarios plus avancés.
 
 Dans la prochaine section, nous verrons comment planifier l'exécution de vos scripts PowerShell à des moments précis grâce au Planificateur de tâches Windows.
+
+⏭️ [Planification via le Planificateur de tâches Windows](/07-jobs-taches/03-planification.md)

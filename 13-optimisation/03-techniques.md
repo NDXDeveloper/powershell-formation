@@ -230,3 +230,5 @@ $servicesCritiques = $servicesArretes | Where-Object { $_.DisplayName -like "*Wi
 - [Documentation PowerShell sur Microsoft Learn](https://learn.microsoft.com/powershell/)
 - [PowerShell Performance Considerations](https://devblogs.microsoft.com/scripting/powershell-performance-considerations/)
 - [CIM Sessions for Performance Optimization](https://devblogs.microsoft.com/scripting/optimizing-cim-cmdlets-for-better-performance/)
+
+⏭️ [Éviter les ralentissements courants](/13-optimisation/04-ralentissements.md)

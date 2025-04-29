@@ -996,3 +996,5 @@ Même en tant que débutant, l'adoption de ces bonnes pratiques dès le début v
 ---
 
 N'oubliez pas : un script robuste n'est pas celui qui ne rencontre jamais d'erreurs, mais celui qui les gère correctement lorsqu'elles surviennent !
+
+⏭️ [Module 8 – Jobs, tâches planifiées et parallélisme](/07-jobs-taches/README.md)

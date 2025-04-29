@@ -61,3 +61,5 @@ Chaque section combinera théorie et pratique, avec des exemples concrets que vo
 Préparons-nous à explorer comment PowerShell peut exécuter des tâches complexes en arrière-plan, de manière planifiée, et en parallèle !
 
 ---
+
+⏭️ [Jobs (`Start-Job`, `Receive-Job`, `Remove-Job`)](/07-jobs-taches/01-jobs.md)

@@ -214,3 +214,5 @@ Dans la prochaine section, nous découvrirons comment regrouper et agréger des 
 ---
 
 💡 **Astuce de pro**: Pour un affichage personnalisé de vos objets dans la console, explorez les fonctions `Format-Table`, `Format-List` et les fichiers de format personnalisés `.ps1xml`.
+
+⏭️ [Groupement, agrégation (`Group-Object`, `Measure-Object`)](/03-objets-donnees/04-groupement-aggregation.md)

@@ -287,3 +287,5 @@ Continuez à explorer et à créer vos propres fonctions pour répondre à vos b
 - [Documentation de posh-git sur GitHub](https://github.com/dahlbyk/posh-git)
 - [Documentation officielle de Git](https://git-scm.com/doc)
 - [PowerShell Gallery - Modules liés à Git](https://www.powershellgallery.com/packages?q=git)
+
+⏭️ [Scripts dans les pipelines (Azure DevOps, GitHub Actions)](/12-ci-cd-tests/03-azure-devops.md)

@@ -203,3 +203,5 @@ Créez un script qui :
 3. Affiche les résultats dans un tableau formaté
 
 **Indice** : Utilisez `Invoke-RestMethod` si le site propose une API ou un flux RSS, sinon utilisez `Invoke-WebRequest` et analysez le HTML.
+
+⏭️ [Authentification (Basic, Bearer, Token)](/11-api-cloud/02-authentification.md)

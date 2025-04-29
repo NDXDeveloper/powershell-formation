@@ -268,3 +268,5 @@ N'oubliez pas que même les projets complexes commencent simplement - vous pouve
 - [PowerShell Gallery](https://www.powershellgallery.com/) - Pour explorer d'autres modules bien structurés
 - [Plaster](https://github.com/PowerShellOrg/Plaster) - Un générateur de templates pour créer des structures de modules
 - [BuildHelpers](https://github.com/RamblingCookieMonster/BuildHelpers) - Un module pour aider à la création de modules PowerShell
+
+⏭️ [Documentation de scripts et fonctions (`.SYNOPSIS`, `.EXAMPLE`, etc.)](/14-architecture/05-documentation-scripts.md)

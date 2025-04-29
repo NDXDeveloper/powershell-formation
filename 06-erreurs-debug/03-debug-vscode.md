@@ -262,3 +262,5 @@ Pour les débutants, commencez par utiliser VS Code et ses outils visuels. Au fu
 ---
 
 **Astuce bonus** : Pour un débogage efficace, prenez l'habitude d'écrire des scripts modulaires avec de petites fonctions qui ont une responsabilité unique. Un code bien structuré est beaucoup plus facile à déboguer !
+
+⏭️ [Journaux d'exécution (`Start-Transcript`)](/06-erreurs-debug/04-logs-transcripts.md)

@@ -68,3 +68,5 @@ Chaque section combine principes théoriques d'architecture logicielle et applic
 Préparons-nous à transformer votre approche du développement PowerShell pour créer des solutions dignes des environnements professionnels les plus exigeants !
 
 ---
+
+⏭️ [Organisation de projets PowerShell](/14-architecture/01-structure-projet.md)

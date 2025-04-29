@@ -315,3 +315,5 @@ if (Test-ServerConnection -ServerName "www.google.com" -Port 443) {
 ---
 
 Avec ces trois variables et les structures `try/catch/finally` vues précédemment, vous disposez maintenant d'un ensemble d'outils puissants pour gérer efficacement les erreurs dans vos scripts PowerShell !
+
+⏭️ [Débogage avec VS Code (`Set-PSBreakpoint`, etc.)](/06-erreurs-debug/03-debug-vscode.md)

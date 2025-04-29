@@ -164,3 +164,5 @@ Get-Process | Where-Object { $_.Name -like "*s*" }
 # Syntaxe simplifiée (plus rapide)
 Get-Process | Where-Object Name -like "*s*"
 ```
+
+⏭️ [Création d'objets personnalisés (`[PSCustomObject]`)](/03-objets-donnees/03-objets-custom.md)
