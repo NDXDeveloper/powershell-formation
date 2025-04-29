@@ -1,5 +1,7 @@
 # 📁 Module 16-1 : Mini-projets PowerShell
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Introduction
 
 Bienvenue dans la section des mini-projets PowerShell ! Ces projets sont conçus pour vous permettre d'appliquer les connaissances acquises tout au long de cette formation. Chaque projet est autonome et peut être réalisé à votre rythme, en fonction de votre niveau de compétence.

@@ -1,5 +1,7 @@
 # Module 11 - Réseau & Sécurité
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## 🔍 Vue d'ensemble
 
 Bienvenue dans le onzième module de notre formation PowerShell ! Après avoir exploré l'administration Active Directory, nous allons maintenant nous concentrer sur deux domaines essentiels pour tout administrateur système : le réseau et la sécurité.

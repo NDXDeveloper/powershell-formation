@@ -1,5 +1,7 @@
 # Solution Exercice 1: Documentation d'une fonction de sauvegarde
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Énoncé
 Créer et documenter une fonction PowerShell complète qui sauvegarde les fichiers importants d'un utilisateur.
 

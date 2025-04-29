@@ -1,5 +1,7 @@
 # Module 15-2: Séparation logique (orchestration vs logique métier)
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## 📘 Introduction
 
 Lorsqu'on développe des scripts PowerShell complexes, il devient essentiel d'organiser son code de manière structurée. La séparation logique est une approche fondamentale qui consiste à diviser votre script en différentes parties ayant chacune une responsabilité distincte. Cette organisation améliore la lisibilité, la maintenance et la réutilisation de votre code.

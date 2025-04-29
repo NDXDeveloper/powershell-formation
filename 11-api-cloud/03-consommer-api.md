@@ -1,5 +1,7 @@
 # 12-3. Consommer une API REST, envoyer du JSON
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Introduction
 
 Dans ce chapitre, nous allons explorer comment utiliser PowerShell pour interagir avec des API REST et manipuler des données au format JSON. Cette compétence est essentielle pour l'automatisation moderne et l'intégration avec des services web.

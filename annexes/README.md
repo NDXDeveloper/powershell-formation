@@ -1,5 +1,7 @@
 # Module 16 - Annexes et bonus
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## 🔍 Vue d'ensemble
 
 Bienvenue dans le seizième et dernier module de notre formation PowerShell ! Après avoir parcouru l'ensemble des concepts fondamentaux et avancés de PowerShell, nous vous proposons maintenant une série de ressources complémentaires pour consolider vos acquis et approfondir certains aspects spécifiques.

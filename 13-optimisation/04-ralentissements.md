@@ -1,5 +1,7 @@
 # 14-4. Éviter les ralentissements courants
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Introduction
 
 Même avec PowerShell, un outil puissant pour l'automatisation, certaines pratiques peuvent entraîner des ralentissements significatifs dans vos scripts. Dans cette section, nous explorerons les causes les plus fréquentes de lenteur et comment les éviter.

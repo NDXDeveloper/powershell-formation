@@ -1,5 +1,7 @@
 # Module 11-2. Découverte réseau (scan, ports, ping, IP)
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Introduction
 
 La découverte réseau est une compétence fondamentale pour tout administrateur système ou professionnel IT. PowerShell offre de puissants outils pour explorer, analyser et dépanner les réseaux. Dans ce module, nous allons découvrir comment utiliser PowerShell pour scanner des réseaux, vérifier l'état des ports, effectuer des pings et travailler avec des adresses IP.

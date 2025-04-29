@@ -1,5 +1,7 @@
 # Solution de l'exercice pratique - PowerShell dans les pipelines
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Objectif de l'exercice
 
 Créer un pipeline simple qui :

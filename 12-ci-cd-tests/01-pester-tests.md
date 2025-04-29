@@ -1,5 +1,7 @@
 # Module 13-1 : Introduction à Pester (tests unitaires)
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## 🔍 Qu'est-ce que Pester ?
 
 Pester est un framework de tests unitaires pour PowerShell. Il vous permet de créer des tests automatisés pour vos scripts et modules PowerShell, garantissant ainsi que votre code fonctionne comme prévu.

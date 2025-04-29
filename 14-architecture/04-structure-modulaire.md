@@ -1,4 +1,7 @@
 # Module 15 - Architecture & design de scripts pro
+
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## 15-4. Structuration modulaire avancée
 
 La structuration modulaire est une approche essentielle pour créer des projets PowerShell maintenables et évolutifs. Dans cette section, nous allons découvrir comment organiser votre code de manière professionnelle, même pour les projets complexes.

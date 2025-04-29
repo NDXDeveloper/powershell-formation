@@ -1,5 +1,7 @@
 # Module 14 - Performance et optimisation
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## 🔍 Vue d'ensemble
 
 Bienvenue dans le quatorzième module de notre formation PowerShell ! Après avoir exploré les approches DevOps, nous allons maintenant nous concentrer sur un aspect crucial pour tout script destiné à une utilisation en production : la performance et l'optimisation.

@@ -1,6 +1,8 @@
 # Solutions des exercices - Module 11-3: Firewall Windows Defender
 # Ces scripts doivent être exécutés avec des privilèges d'administrateur
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 # ===================================
 # Solution Exercice 1: Lister toutes les règles actives
 # ===================================

@@ -3,6 +3,8 @@
 # Module 12-2: Authentification (Basic, Bearer, Token)
 # ===========================================================================
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 <#
 .SYNOPSIS
     Script qui récupère et affiche la météo actuelle d'une ville à l'aide de l'API OpenWeatherMap.

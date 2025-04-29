@@ -1,5 +1,7 @@
 # 🧰 16-4 Outils complémentaires pour PowerShell
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 PowerShell est un outil puissant, mais son expérience utilisateur peut être grandement améliorée par l'utilisation d'environnements de développement adaptés. Voici une présentation des principaux outils qui faciliteront votre travail avec PowerShell.
 
 ## 📌 PowerShell ISE (Integrated Scripting Environment)

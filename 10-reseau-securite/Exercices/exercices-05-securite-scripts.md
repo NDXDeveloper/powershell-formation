@@ -3,6 +3,8 @@
 # Fichier: ExercicePrivileges.ps1
 # --------------------------------------------------
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 <#
 .SYNOPSIS
     Script qui vérifie les privilèges administrateur, relance avec élévation si nécessaire,

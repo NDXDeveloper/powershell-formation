@@ -1,5 +1,7 @@
 # Solution Exercice 12.5.1 - Inventaire détaillé des machines virtuelles Azure
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Énoncé de l'exercice
 
 Créez un script PowerShell qui:

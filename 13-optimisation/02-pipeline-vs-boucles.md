@@ -1,5 +1,7 @@
 # 14-2. Pipeline vs Boucles dans PowerShell
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## 🧠 Comprendre la différence
 
 Dans PowerShell, il existe deux approches principales pour traiter plusieurs éléments : **les pipelines** et **les boucles**. Comprendre quand utiliser l'une ou l'autre peut considérablement améliorer les performances de vos scripts.

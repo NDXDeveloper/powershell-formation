@@ -1,5 +1,7 @@
 # 12-5. Introduction à PowerShell + Azure / AWS / Google Cloud
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## 🌩️ PowerShell et le Cloud : Les bases
 
 PowerShell est devenu un outil essentiel pour gérer les principales plateformes cloud. Que vous travailliez avec Microsoft Azure, Amazon Web Services (AWS) ou Google Cloud Platform (GCP), PowerShell vous offre une interface cohérente pour administrer vos ressources cloud.

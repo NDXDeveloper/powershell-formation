@@ -1,5 +1,7 @@
 # Solutions des exercices de découverte réseau PowerShell
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Exercice 1 (Débutant) : Vérifier l'accessibilité de sites web
 
 **Objectif :** Créer un script qui vérifie si plusieurs sites web de votre choix sont accessibles et affiche un rapport formaté.

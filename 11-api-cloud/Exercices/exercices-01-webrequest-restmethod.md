@@ -1,5 +1,7 @@
 # Solutions des exercices pratiques - Module 12-1
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Exercice : Récupérer les derniers articles d'un site web
 
 Voici plusieurs solutions complètes pour récupérer et afficher les derniers articles d'un site web, en utilisant différentes approches.

@@ -1,5 +1,7 @@
 # Module 15 - Architecture & design de scripts pro
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## 🔍 Vue d'ensemble
 
 Bienvenue dans le quinzième module de notre formation PowerShell ! Après avoir maîtrisé les aspects de performance et d'optimisation, nous allons maintenant aborder un sujet qui distingue véritablement les scripts amateurs des solutions professionnelles : l'architecture et le design de scripts.

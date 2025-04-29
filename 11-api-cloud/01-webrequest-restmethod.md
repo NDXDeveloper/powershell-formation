@@ -2,6 +2,8 @@
 
 ## 12-1. `Invoke-WebRequest` vs `Invoke-RestMethod`
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ### Introduction
 
 Dans le monde connecté d'aujourd'hui, interagir avec des sites web et des API est une compétence essentielle pour tout administrateur système ou développeur. PowerShell offre deux cmdlets puissantes pour communiquer avec le web :

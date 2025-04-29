@@ -1,5 +1,7 @@
 # Solution Exercice 1 - Lister les repositories GitHub non mis à jour depuis plus de 6 mois
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Objectif
 Créer un script qui liste tous vos repositories GitHub et affiche ceux qui n'ont pas été mis à jour depuis plus de 6 mois.
 

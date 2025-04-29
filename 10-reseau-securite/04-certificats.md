@@ -1,5 +1,7 @@
 # Module 11-4. Gestion des certificats avec PowerShell
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Introduction
 
 Les certificats numériques jouent un rôle crucial dans la sécurité informatique moderne. Ils permettent d'authentifier l'identité des sites web, de sécuriser les communications et de vérifier l'intégrité des logiciels. PowerShell offre des outils puissants pour gérer ces certificats sur votre système.

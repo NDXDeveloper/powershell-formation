@@ -1,5 +1,7 @@
 # Solutions des exercices - API REST et JSON avec PowerShell
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Exercice : Récupération de la météo pour une ville
 
 Voici une solution complète pour l'exercice proposé dans le tutoriel concernant la récupération des données météorologiques.

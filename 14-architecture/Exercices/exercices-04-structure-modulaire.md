@@ -1,5 +1,7 @@
 # Solution Exercice 1: Création de la structure du module
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 Cet exercice consiste à créer un module simple avec la structure recommandée.
 
 ## Structure de répertoires à créer

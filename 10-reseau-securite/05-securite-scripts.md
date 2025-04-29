@@ -1,5 +1,7 @@
 # 11-5. Sécurité des scripts : droits, exécution, sessions à privilèges
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## 📌 Introduction
 
 La sécurité est un aspect fondamental lors de l'exécution de scripts PowerShell. Dans cette section, nous allons découvrir comment gérer les droits d'exécution, sécuriser vos scripts et utiliser des sessions avec privilèges de manière responsable.

@@ -1,5 +1,7 @@
 # Solution Exercice 1 - Vérification de disponibilité des modules
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Énoncé
 Créez un script qui vérifie la disponibilité de plusieurs modules PowerShell couramment utilisés et affiche un rapport indiquant lesquels sont installés et lesquels ne le sont pas.
 

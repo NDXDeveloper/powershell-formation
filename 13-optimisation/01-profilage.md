@@ -1,5 +1,7 @@
 # Module 14-1: Profilage (`Measure-Command`, Stopwatch)
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## 📝 Introduction au profilage
 
 Le profilage est une technique essentielle pour mesurer et améliorer les performances de vos scripts PowerShell. Il vous permet de savoir combien de temps prend l'exécution d'une portion de code, ce qui est crucial pour identifier les goulots d'étranglement et optimiser vos scripts.

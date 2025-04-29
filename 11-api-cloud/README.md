@@ -1,5 +1,7 @@
 # Module 12 - API, Web & Cloud
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## 🔍 Vue d'ensemble
 
 Bienvenue dans le douzième module de notre formation PowerShell ! Après avoir exploré les aspects réseau et sécurité, nous allons maintenant nous tourner vers l'intégration de PowerShell avec les technologies web et cloud, élargissant considérablement les possibilités d'automatisation.

@@ -1,5 +1,7 @@
 # Module 13-3 : Scripts PowerShell dans les pipelines (Azure DevOps, GitHub Actions)
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## 📘 Introduction
 
 Dans le monde DevOps moderne, les pipelines d'intégration et de déploiement continus (CI/CD) sont essentiels pour automatiser le processus de développement logiciel. PowerShell, grâce à sa puissance et sa flexibilité, s'intègre parfaitement dans ces environnements. Dans cette section, nous allons découvrir comment utiliser des scripts PowerShell dans deux plateformes populaires : Azure DevOps et GitHub Actions.

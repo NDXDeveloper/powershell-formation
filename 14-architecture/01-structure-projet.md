@@ -1,6 +1,8 @@
 # Module 15 - Architecture & design de scripts pro
 ## 15-1. Organisation de projets PowerShell
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 Bienvenue dans cette partie consacrée à l'organisation des projets PowerShell ! Que vous soyez débutant ou que vous commenciez à accumuler des scripts, structurer correctement vos projets est essentiel pour maintenir votre code sur le long terme.
 
 ### Pourquoi organiser vos projets PowerShell ?

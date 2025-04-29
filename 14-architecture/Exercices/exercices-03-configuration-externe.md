@@ -1,5 +1,7 @@
 # Exercice 1 - Lecture et modification de configuration JSON
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Énoncé
 Créez un script PowerShell qui:
 1. Lit un fichier de configuration JSON contenant des paramètres d'application

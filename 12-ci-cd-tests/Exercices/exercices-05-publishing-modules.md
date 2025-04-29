@@ -1,5 +1,7 @@
 # Solution de l'exercice - Publication de modules (PSGallery)
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 Cette solution vous guide étape par étape pour créer un petit module PowerShell et le préparer pour publication sur la PowerShell Gallery.
 
 ## Étape 1: Création de la structure du module

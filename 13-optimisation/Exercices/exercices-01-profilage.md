@@ -1,5 +1,7 @@
 # Solution - Exercice de profilage PowerShell
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 Ce script compare les performances de trois méthodes différentes pour créer une liste de 10 000 nombres au carré.
 
 ```powershell

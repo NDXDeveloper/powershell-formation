@@ -1,5 +1,7 @@
 # Solution Exercice 1: Configuration de base
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Objectifs de l'exercice
 1. Installer posh-git
 2. Personnaliser votre prompt Git

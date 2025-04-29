@@ -1,5 +1,7 @@
 # 📝 Module 15-5: Documentation de scripts et fonctions en PowerShell
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Introduction
 
 Une bonne documentation est essentielle pour tout script PowerShell professionnel. Elle permet non seulement aux autres utilisateurs de comprendre votre code, mais elle vous aidera également à vous rappeler ce que fait votre script lorsque vous y reviendrez plus tard.

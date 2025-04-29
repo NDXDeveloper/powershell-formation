@@ -1,4 +1,7 @@
 # Module 14-3: Techniques d'optimisation en PowerShell
+
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Filtrage natif et évitement de WMI
 
 ---

@@ -1,5 +1,7 @@
 # 12-4. Appels vers GitHub, Azure, Teams, etc.
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 Dans cette section, nous allons explorer comment utiliser PowerShell pour interagir avec des services populaires comme GitHub, Microsoft Azure et Microsoft Teams. Ces interactions vous permettront d'automatiser de nombreuses tâches quotidiennes liées à ces plateformes.
 
 ## GitHub

@@ -1,5 +1,7 @@
 # Solutions des exercices - Gestion des certificats PowerShell
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Exercice 1 : Lister tous les certificats personnels de l'utilisateur courant
 
 ```powershell

@@ -1,5 +1,7 @@
 # 📚 Module 16-5 : Glossaire PowerShell & Liens Utiles
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## 📘 Glossaire des termes PowerShell
 
 ### A

@@ -1,5 +1,7 @@
 # Module 13-4 : Linting et validation automatique en PowerShell
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## 📘 Introduction
 
 Le linting et la validation automatique sont des pratiques essentielles pour garantir la qualité de votre code PowerShell. Ces outils vous aident à identifier les erreurs, maintenir un style cohérent et suivre les bonnes pratiques avant même d'exécuter votre code.

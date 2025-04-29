@@ -1,6 +1,8 @@
 # Module 13 : Tests, CI/CD et DevOps
 ## 13-5. Publication de modules (PSGallery)
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ### 📘 Introduction
 
 La **PowerShell Gallery** (PSGallery) est le dépôt officiel de modules PowerShell, comparable à npm pour JavaScript ou PyPI pour Python. Publier votre module sur la PSGallery permet de le partager facilement avec la communauté et facilite son installation via la commande `Install-Module`.

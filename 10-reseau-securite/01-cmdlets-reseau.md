@@ -1,6 +1,8 @@
 # Module 11 - Réseau & Sécurité
 ## 11-1. Cmdlets réseau : `Test-Connection`, `Test-NetConnection`, `Resolve-DnsName`
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 Dans ce chapitre, nous allons explorer les cmdlets PowerShell essentielles pour diagnostiquer et travailler avec les connexions réseau. Ces commandes sont des outils précieux pour tout administrateur système ou développeur.
 
 ### Introduction aux cmdlets réseau

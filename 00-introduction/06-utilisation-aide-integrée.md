@@ -1,5 +1,7 @@
 # Module 1-6: Utilisation de l'aide intégrée (Get-Help, Get-Command, Get-Member)
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Découvrir l'aide intégrée dans PowerShell
 
 L'un des plus grands atouts de PowerShell est son système d'aide intégré extrêmement complet. Contrairement à d'autres interfaces en ligne de commande, vous n'avez pas besoin de chercher constamment sur Internet pour comprendre comment fonctionne une commande. PowerShell propose trois outils essentiels pour découvrir et comprendre les commandes:

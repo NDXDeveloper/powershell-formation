@@ -1,6 +1,8 @@
 # Module 12 - API, Web & Cloud
 ## 12-2. Authentification (Basic, Bearer, Token)
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 Dans le monde des API et des services web, l'authentification est une étape essentielle pour sécuriser les communications. PowerShell offre plusieurs méthodes pour gérer différents types d'authentification lors de vos requêtes web.
 
 ### Pourquoi l'authentification est nécessaire

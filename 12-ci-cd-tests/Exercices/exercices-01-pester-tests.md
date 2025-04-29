@@ -1,5 +1,7 @@
 # Solution de l'exercice Pester - Calculatrice
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 Cette solution comprend deux fichiers : le module de calculatrice (`Calculatrice.ps1`) et ses tests associés (`Calculatrice.Tests.ps1`).
 
 ## Fichier 1 : Calculatrice.ps1

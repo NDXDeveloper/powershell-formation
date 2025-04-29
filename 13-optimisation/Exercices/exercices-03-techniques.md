@@ -1,5 +1,6 @@
- 
 # Solution Exercice 2 - Comparaison de performance
+
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
 
 ## Énoncé de l'exercice
 Écrire un script qui compare la performance entre :

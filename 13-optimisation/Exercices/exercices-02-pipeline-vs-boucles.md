@@ -1,5 +1,7 @@
 # Solution Exercice 1 - Comparaison Pipeline vs Boucle pour filtrage de fichiers
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Énoncé
 Créez deux scripts PowerShell qui analysent les fichiers dans le dossier C:\Windows\System32, trouvent tous les fichiers .dll de plus de 1 Mo, et les affichent triés par taille. Utilisez une approche avec pipeline dans le premier script et une approche avec boucle dans le second, puis comparez les performances.
 

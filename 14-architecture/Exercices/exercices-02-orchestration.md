@@ -1,5 +1,7 @@
 # Exercice 1 - Solution: Rapports de services Windows
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Énoncé de l'exercice
 Créez un script PowerShell pour générer un rapport des services Windows sur un ou plusieurs ordinateurs. Le script doit avoir une séparation claire entre l'orchestration et la logique métier.
 

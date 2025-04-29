@@ -1,4 +1,7 @@
 # Module 15 - Architecture & design de scripts pro
+
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## 15-3. Gestion de la configuration externe (JSON, ENV, INI)
 
 Dans le développement de scripts PowerShell professionnels, il est essentiel de séparer le code et la configuration. Cette approche offre plusieurs avantages :

@@ -1,5 +1,7 @@
 # Solution Exercice 1 - Transformation d'un script en projet organisé
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Énoncé de l'exercice
 > Prenez un de vos scripts existants et transformez-le en un projet organisé selon la structure présentée dans le cours. Identifiez quelles parties devraient être des fonctions publiques et lesquelles devraient rester privées.
 

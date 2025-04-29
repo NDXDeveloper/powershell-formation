@@ -1,5 +1,7 @@
 # Module 13 - Tests, CI/CD et DevOps
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## 🔍 Vue d'ensemble
 
 Bienvenue dans le treizième module de notre formation PowerShell ! Après avoir exploré l'intégration avec les API web et le cloud, nous allons maintenant nous immerger dans l'univers DevOps et découvrir comment appliquer les pratiques modernes de développement logiciel à vos scripts PowerShell.

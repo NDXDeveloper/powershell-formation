@@ -1,5 +1,7 @@
 # Module 13-2: PowerShell + Git
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Introduction
 
 Git est un système de contrôle de version essentiel pour tout développeur, y compris ceux qui travaillent avec PowerShell. Cette section vous apprendra comment utiliser PowerShell pour interagir avec Git, vous permettant d'automatiser et de simplifier vos workflows de gestion de code.

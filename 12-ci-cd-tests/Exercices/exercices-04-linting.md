@@ -1,4 +1,6 @@
- # Solution de l'exercice de linting PowerShell
+# Solution de l'exercice de linting PowerShell
+
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
 
 ## Rappel de l'exercice
 

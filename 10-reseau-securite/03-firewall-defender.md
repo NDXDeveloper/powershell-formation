@@ -1,5 +1,7 @@
 # Module 11-3: Firewall, pare-feu, et règles Windows Defender
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## 🔍 Vue d'ensemble
 
 Windows Defender Firewall est un composant essentiel de la sécurité Windows qui contrôle le trafic réseau entrant et sortant de votre ordinateur. PowerShell offre des cmdlets puissantes pour gérer ce pare-feu, ce qui vous permet d'automatiser la création, la modification et la suppression des règles de sécurité.

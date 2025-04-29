@@ -1,5 +1,7 @@
 # Solution de l'exercice sur les ralentissements courants
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Rappel de l'exercice
 
 Voici le script original présentant des problèmes de performance :

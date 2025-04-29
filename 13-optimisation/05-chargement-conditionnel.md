@@ -1,5 +1,7 @@
 # 14-5. Chargement conditionnel de modules
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Introduction
 
 Le chargement conditionnel de modules est une technique d'optimisation qui permet à vos scripts PowerShell de ne charger des modules que lorsqu'ils sont réellement nécessaires. Cela peut considérablement améliorer les performances de vos scripts, notamment au démarrage.

@@ -1,5 +1,7 @@
 # 📄 16-2. Modèles de scripts prêts à l'emploi
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Introduction
 
 Bienvenue dans cette section consacrée aux modèles de scripts PowerShell prêts à l'emploi !
